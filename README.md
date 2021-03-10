@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/2DRlc8pbf096LobLnjGt2b?highlight=spotify:track:1aZmrST6ppqWbi0bwbwlOj)
+[<img src="/home/vyomyadav/Downloads/coco.png" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/2DRlc8pbf096LobLnjGt2b?highlight=spotify:track:1aZmrST6ppqWbi0bwbwlOj)
 
 ### Connect with me:
 
