@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 
-<img src="https://cdn.vox-cdn.com/thumbor/VoXJ8IaxCj5_U-366JhtUHLkdQ0=/0x0:640x427/1400x1050/filters:focal(0x0:640x427):format(jpeg)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" height="30"> &nbsp; &nbsp;  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="30"> &nbsp; &nbsp;  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" height="30"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" height="30"> &nbsp; &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" height="30"> &nbsp; &nbsp;  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="25">
+<img src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" height="30"> &nbsp; &nbsp;  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="30"> &nbsp; &nbsp;  <img src="https://image.flaticon.com/icons/png/512/25/25231.png" height="30"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" height="30"> &nbsp; &nbsp; <img src="" height="30"> &nbsp; &nbsp;  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="25">
 ---
 
 ### :zap: Recent Activity
