@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://github.com/Vyom-Yadav/Vyom-Yadav/blob/main/coco.png" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/2DRlc8pbf096LobLnjGt2b?highlight=spotify:track:1aZmrST6ppqWbi0bwbwlOj)
+[![Spotify](https://vyom-yadav.vercel.app/api/spotify)](https://open.spotify.com/user/312oauov5ttlvf6hg6yygyiz3m4m)
 
 ### Connect with me:
 
