@@ -3,17 +3,15 @@
 <a href="https://www.hackerrank.com/VyomYadav">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
 </a> 
-<a href="#">
-    <img src="svg/social/gitter.svg" alt="gitter" style="vertical-align:top; margin:6px 4px">
+<a href="https://www.linkedin.com/in/vyom-yadav-66a97918b/">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="gitter" style="vertical-align:top; margin:6px 4px">
 </a>  
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student, Footballer and a Defence Aspirant!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning xpath, antlr
+- 👯 I’m looking to contribute to Java projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Spotify Playing 🎧
 
