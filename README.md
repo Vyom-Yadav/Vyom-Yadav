@@ -1,6 +1,8 @@
 ### Hi there, I'm Vyom 👋
 
-[![Website](https://www.hackerrank.com/VyomYadav)](https://codestackr.com)
+<a href="https://www.hackerrank.com/VyomYadav">
+    <img src="svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
+  </a> 
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
