@@ -32,3 +32,8 @@
 4. 🗣 Commented on [#9334](https://github.com/checkstyle/checkstyle/issues/9334) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 5. 🗣 Commented on [#9334](https://github.com/checkstyle/checkstyle/issues/9334) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
+
+
+https://user-images.githubusercontent.com/73882557/110594251-93d7a380-81a2-11eb-9198-92a7cca582e0.mp4
+
+
