@@ -3,7 +3,9 @@
 <a href="https://www.hackerrank.com/VyomYadav">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
 </a> 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<a href="#">
+    <img src="svg/social/gitter.svg" alt="gitter" style="vertical-align:top; margin:6px 4px">
+</a>  
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
