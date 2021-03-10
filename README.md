@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://https://novatorem-git-master-vyom-yadav.vercel.app//api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/312oauov5ttlvf6hg6yygyiz3m4m)
+[<img src="https://https://novatorem-git-master-vyom-yadav.vercel.app//api/spotify" alt="Vyom's Spotify Playing" width="350" />](https://open.spotify.com/user/312oauov5ttlvf6hg6yygyiz3m4m)
 
 ### Connect with me:
 
