@@ -9,7 +9,7 @@
 
 ## I'm a Student, Footballer and a Defence Aspirant!!
 
-- 🌱 I’m currently learning xpath, antlr
+- 🌱 I’m currently learning to write shell scripts.
 - 👯 I’m looking to contribute to Java projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
