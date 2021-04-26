@@ -26,11 +26,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/J3Patel/Unplug_After_Charging_is_Full_To_Save_Energy/issues/1) in [J3Patel/Unplug_After_Charging_is_Full_To_Save_Energy](https://github.com/J3Patel/Unplug_After_Charging_is_Full_To_Save_Energy)
-2. ❗️ Opened issue [#1](https://github.com/J3Patel/Unplug_After_Charging_is_Full_To_Save_Energy/issues/1) in [J3Patel/Unplug_After_Charging_is_Full_To_Save_Energy](https://github.com/J3Patel/Unplug_After_Charging_is_Full_To_Save_Energy)
-3. 🗣 Commented on [#7](https://github.com/gabriele-tomassetti/antlr-mega-tutorial/issues/7) in [gabriele-tomassetti/antlr-mega-tutorial](https://github.com/gabriele-tomassetti/antlr-mega-tutorial)
-4. 🗣 Commented on [#9349](https://github.com/checkstyle/checkstyle/issues/9349) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 💪 Opened PR [#9666](https://github.com/checkstyle/checkstyle/pull/9666) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#5353](https://github.com/checkstyle/checkstyle/issues/5353) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#5353](https://github.com/checkstyle/checkstyle/issues/5353) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. ❗️ Closed issue [#1](https://github.com/J3Patel/Unplug_After_Charging_is_Full_To_Save_Energy/issues/1) in [J3Patel/Unplug_After_Charging_is_Full_To_Save_Energy](https://github.com/J3Patel/Unplug_After_Charging_is_Full_To_Save_Energy)
+4. ❗️ Opened issue [#1](https://github.com/J3Patel/Unplug_After_Charging_is_Full_To_Save_Energy/issues/1) in [J3Patel/Unplug_After_Charging_is_Full_To_Save_Energy](https://github.com/J3Patel/Unplug_After_Charging_is_Full_To_Save_Energy)
+5. 🗣 Commented on [#7](https://github.com/gabriele-tomassetti/antlr-mega-tutorial/issues/7) in [gabriele-tomassetti/antlr-mega-tutorial](https://github.com/gabriele-tomassetti/antlr-mega-tutorial)
 <!--END_SECTION:activity-->
 
 
