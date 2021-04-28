@@ -27,10 +27,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9942](https://github.com/checkstyle/checkstyle/issues/9942) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#9942](https://github.com/checkstyle/checkstyle/issues/9942) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 💪 Opened PR [#2142](https://github.com/pgjdbc/pgjdbc/pull/2142) in [pgjdbc/pgjdbc](https://github.com/pgjdbc/pgjdbc)
 3. 🗣 Commented on [#9942](https://github.com/checkstyle/checkstyle/issues/9942) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 💪 Opened PR [#9942](https://github.com/checkstyle/checkstyle/pull/9942) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#9941](https://github.com/checkstyle/checkstyle/issues/9941) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#9942](https://github.com/checkstyle/checkstyle/issues/9942) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 🗣 Commented on [#9942](https://github.com/checkstyle/checkstyle/issues/9942) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 
