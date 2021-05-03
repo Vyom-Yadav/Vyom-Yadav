@@ -26,11 +26,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9962](https://github.com/checkstyle/checkstyle/issues/9962) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#9957](https://github.com/checkstyle/checkstyle/issues/9957) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#9942](https://github.com/checkstyle/checkstyle/issues/9942) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#9947](https://github.com/checkstyle/checkstyle/issues/9947) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#9957](https://github.com/checkstyle/checkstyle/issues/9957) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#9957](https://github.com/checkstyle/checkstyle/issues/9957) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. ❗️ Opened issue [#9962](https://github.com/checkstyle/checkstyle/issues/9962) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#9957](https://github.com/checkstyle/checkstyle/issues/9957) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#9942](https://github.com/checkstyle/checkstyle/issues/9942) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 🗣 Commented on [#9947](https://github.com/checkstyle/checkstyle/issues/9947) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 
