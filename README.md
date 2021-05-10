@@ -28,9 +28,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9996](https://github.com/checkstyle/checkstyle/issues/9996) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 2. 🗣 Commented on [#9996](https://github.com/checkstyle/checkstyle/issues/9996) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 💪 Opened PR [#9996](https://github.com/checkstyle/checkstyle/pull/9996) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#9993](https://github.com/checkstyle/checkstyle/issues/9993) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#9957](https://github.com/checkstyle/checkstyle/issues/9957) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#9996](https://github.com/checkstyle/checkstyle/issues/9996) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 💪 Opened PR [#9996](https://github.com/checkstyle/checkstyle/pull/9996) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 🗣 Commented on [#9993](https://github.com/checkstyle/checkstyle/issues/9993) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 
