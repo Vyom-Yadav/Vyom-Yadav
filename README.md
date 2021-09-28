@@ -7,7 +7,7 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="gitter" style="vertical-align:top; margin:6px 4px">
 </a>  
 
-## I'm a Student, Footballer and a Defence Aspirant!!
+## I'm a Student, Footballer and an Open Source Enthusiast
 
 - 🌱 I’m currently learning to write shell scripts.
 - 👯 I’m looking to contribute to Java projects
