@@ -26,11 +26,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10805](https://github.com/checkstyle/checkstyle/issues/10805) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#10046](https://github.com/checkstyle/checkstyle/issues/10046) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 2. 🗣 Commented on [#10805](https://github.com/checkstyle/checkstyle/issues/10805) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 3. 🗣 Commented on [#10805](https://github.com/checkstyle/checkstyle/issues/10805) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#10825](https://github.com/checkstyle/checkstyle/issues/10825) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 💪 Opened PR [#10825](https://github.com/checkstyle/checkstyle/pull/10825) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#10805](https://github.com/checkstyle/checkstyle/issues/10805) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 🗣 Commented on [#10825](https://github.com/checkstyle/checkstyle/issues/10825) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 
