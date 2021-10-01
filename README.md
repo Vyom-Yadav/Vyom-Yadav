@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 
-<img src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" height="30">&nbsp; &nbsp;  <img src="https://www.techbaz.org/Course/img/c-logo.png" height="30">&nbsp;&nbsp;  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" height="30">&nbsp;&nbsp;  <img src="https://github.com/piyush168713/Vyom-Yadav/blob/main/img/spring.png" alt="Spring" style="vertical-align:top; margin:6px 4px height="35"">
+<img src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" height="30">&nbsp; &nbsp;  <img src="https://www.techbaz.org/Course/img/c-logo.png" height="30">&nbsp;&nbsp;  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" height="30">&nbsp;&nbsp;  <img src="https://github.com/piyush168713/Vyom-Yadav/blob/main/img/spring.png" alt="Spring" style="vertical-align:top; margin:6px 4px" height="35">
 ---
 ---
 
