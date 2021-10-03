@@ -27,10 +27,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10840](https://github.com/checkstyle/checkstyle/issues/10840) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 💪 Opened PR [#10840](https://github.com/checkstyle/checkstyle/pull/10840) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#10835](https://github.com/checkstyle/checkstyle/issues/10835) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#8](https://github.com/Vyom-Yadav/Vyom-Yadav/issues/8) in [Vyom-Yadav/Vyom-Yadav](https://github.com/Vyom-Yadav/Vyom-Yadav)
-5. 🗣 Commented on [#6](https://github.com/Vyom-Yadav/Vyom-Yadav/issues/6) in [Vyom-Yadav/Vyom-Yadav](https://github.com/Vyom-Yadav/Vyom-Yadav)
+2. 🗣 Commented on [#10840](https://github.com/checkstyle/checkstyle/issues/10840) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#10840](https://github.com/checkstyle/checkstyle/issues/10840) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 💪 Opened PR [#10840](https://github.com/checkstyle/checkstyle/pull/10840) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 🗣 Commented on [#10835](https://github.com/checkstyle/checkstyle/issues/10835) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 
