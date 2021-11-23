@@ -30,7 +30,7 @@
 2. 🗣 Commented on [#10930](https://github.com/checkstyle/checkstyle/issues/10930) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 3. 🗣 Commented on [#10930](https://github.com/checkstyle/checkstyle/issues/10930) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 4. 🗣 Commented on [#10930](https://github.com/checkstyle/checkstyle/issues/10930) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. ❗️ Opened issue [#10973](https://github.com/checkstyle/checkstyle/issues/10973) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 🗣 Commented on [#10930](https://github.com/checkstyle/checkstyle/issues/10930) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 
