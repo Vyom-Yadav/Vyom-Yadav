@@ -1,8 +1,5 @@
 ### Hi there, I'm Vyom 👋
 
-<a href="https://www.hackerrank.com/VyomYadav">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
-</a> 
 <a href="https://www.linkedin.com/in/vyom-yadav-66a97918b/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="gitter" style="vertical-align:top; margin:6px 4px">
 </a>  
