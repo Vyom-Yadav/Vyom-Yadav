@@ -23,11 +23,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11030](https://github.com/checkstyle/checkstyle/issues/11030) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#11031](https://github.com/checkstyle/checkstyle/issues/11031) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#11020](https://github.com/checkstyle/checkstyle/issues/11020) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#11033](https://github.com/checkstyle/checkstyle/issues/11033) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#11030](https://github.com/checkstyle/checkstyle/issues/11030) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#11031](https://github.com/checkstyle/checkstyle/issues/11031) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 4. 🗣 Commented on [#11020](https://github.com/checkstyle/checkstyle/issues/11020) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 💪 Opened PR [#1731](https://github.com/xwiki/xwiki-platform/pull/1731) in [xwiki/xwiki-platform](https://github.com/xwiki/xwiki-platform)
+5. 🗣 Commented on [#11020](https://github.com/checkstyle/checkstyle/issues/11020) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 
