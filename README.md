@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning to write shell scripts.
 - 👯 I’m looking to contribute to Java projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Spotify Playing 🎧
 
