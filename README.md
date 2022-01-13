@@ -25,9 +25,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4](https://github.com/Vyom-Yadav/actions-test/issues/4) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
 2. 🗣 Commented on [#4](https://github.com/Vyom-Yadav/actions-test/issues/4) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
-3. 💪 Opened PR [#4](https://github.com/Vyom-Yadav/actions-test/pull/4) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
-4. ❌ Closed PR [#2](https://github.com/Vyom-Yadav/actions-test/pull/2) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
-5. ❌ Closed PR [#3](https://github.com/Vyom-Yadav/actions-test/pull/3) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
+3. 🗣 Commented on [#4](https://github.com/Vyom-Yadav/actions-test/issues/4) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
+4. 🗣 Commented on [#4](https://github.com/Vyom-Yadav/actions-test/issues/4) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
+5. 🗣 Commented on [#4](https://github.com/Vyom-Yadav/actions-test/issues/4) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
 <!--END_SECTION:activity-->
 
 
