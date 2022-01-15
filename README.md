@@ -23,10 +23,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#31](https://github.com/Vyom-Yadav/actions-test/pull/31) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
-2. 🗣 Commented on [#11195](https://github.com/checkstyle/checkstyle/issues/11195) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#10930](https://github.com/checkstyle/checkstyle/issues/10930) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. ❌ Closed PR [#4](https://github.com/Vyom-Yadav/actions-test/pull/4) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
+1. 🗣 Commented on [#11198](https://github.com/checkstyle/checkstyle/issues/11198) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 💪 Opened PR [#11198](https://github.com/checkstyle/checkstyle/pull/11198) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. ❌ Closed PR [#31](https://github.com/Vyom-Yadav/actions-test/pull/31) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
+4. 🗣 Commented on [#11195](https://github.com/checkstyle/checkstyle/issues/11195) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 5. 🗣 Commented on [#10930](https://github.com/checkstyle/checkstyle/issues/10930) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
