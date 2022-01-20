@@ -23,11 +23,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/SparkScratch-P/SparkScratch-P/issues/2) in [SparkScratch-P/SparkScratch-P](https://github.com/SparkScratch-P/SparkScratch-P)
-2. 🗣 Commented on [#2](https://github.com/SparkScratch-P/SparkScratch-P/issues/2) in [SparkScratch-P/SparkScratch-P](https://github.com/SparkScratch-P/SparkScratch-P)
-3. ❗️ Closed issue [#2](https://github.com/SparkScratch-P/SparkScratch-P/issues/2) in [SparkScratch-P/SparkScratch-P](https://github.com/SparkScratch-P/SparkScratch-P)
-4. ❗️ Opened issue [#2](https://github.com/SparkScratch-P/SparkScratch-P/issues/2) in [SparkScratch-P/SparkScratch-P](https://github.com/SparkScratch-P/SparkScratch-P)
-5. 🗣 Commented on [#11201](https://github.com/checkstyle/checkstyle/issues/11201) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#11223](https://github.com/checkstyle/checkstyle/issues/11223) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#11223](https://github.com/checkstyle/checkstyle/issues/11223) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 💪 Opened PR [#11223](https://github.com/checkstyle/checkstyle/pull/11223) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. ❗️ Closed issue [#2](https://github.com/SparkScratch-P/SparkScratch-P/issues/2) in [SparkScratch-P/SparkScratch-P](https://github.com/SparkScratch-P/SparkScratch-P)
+5. 🗣 Commented on [#2](https://github.com/SparkScratch-P/SparkScratch-P/issues/2) in [SparkScratch-P/SparkScratch-P](https://github.com/SparkScratch-P/SparkScratch-P)
 <!--END_SECTION:activity-->
 
 
