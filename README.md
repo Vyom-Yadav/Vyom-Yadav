@@ -1,8 +1,9 @@
-### Hi there, I'm Vyom 👋
+<h1 align="center"><em>Hi there, I'm Vyom </em><img src="https://user-images.githubusercontent.com/73777108/150582164-1a082835-3bad-4a81-b3c7-dad6e90c6e19.gif" width="50"></h1>
 
 <a href="https://www.linkedin.com/in/vyom-yadav-66a97918b/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="gitter" style="vertical-align:top; margin:6px 4px">
 </a>  
+
 
 ## I'm a Student, Footballer and an Open Source Enthusiast
 
@@ -30,7 +31,7 @@
 5. 🗣 Commented on [#9](https://github.com/Vyom-Yadav/Vyom-Yadav/issues/9) in [Vyom-Yadav/Vyom-Yadav](https://github.com/Vyom-Yadav/Vyom-Yadav)
 <!--END_SECTION:activity-->
 
+<br/><br/>
 
-
-
+<h1 align="center">👾Follow Me for More Epic Contents and Don't forget to leave a Star!⭐</h1>
 
