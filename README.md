@@ -24,11 +24,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11223](https://github.com/checkstyle/checkstyle/issues/11223) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#10904](https://github.com/checkstyle/checkstyle/issues/10904) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 2. 🗣 Commented on [#11223](https://github.com/checkstyle/checkstyle/issues/11223) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 3. 🗣 Commented on [#11223](https://github.com/checkstyle/checkstyle/issues/11223) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#9](https://github.com/Vyom-Yadav/Vyom-Yadav/issues/9) in [Vyom-Yadav/Vyom-Yadav](https://github.com/Vyom-Yadav/Vyom-Yadav)
-5. 🎉 Merged PR [#9](https://github.com/Vyom-Yadav/Vyom-Yadav/pull/9) in [Vyom-Yadav/Vyom-Yadav](https://github.com/Vyom-Yadav/Vyom-Yadav)
+4. 🗣 Commented on [#11223](https://github.com/checkstyle/checkstyle/issues/11223) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 🗣 Commented on [#9](https://github.com/Vyom-Yadav/Vyom-Yadav/issues/9) in [Vyom-Yadav/Vyom-Yadav](https://github.com/Vyom-Yadav/Vyom-Yadav)
 <!--END_SECTION:activity-->
 
 <br/><br/>
