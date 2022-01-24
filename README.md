@@ -33,5 +33,3 @@
 
 <br/><br/>
 
-<h1 align="center">👾Follow Me for More Epic Contents and Don't forget to leave a Star!⭐</h1>
-
