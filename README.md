@@ -31,5 +31,4 @@
 5. 🗣 Commented on [#11223](https://github.com/checkstyle/checkstyle/issues/11223) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
-<br/><br/>
 
