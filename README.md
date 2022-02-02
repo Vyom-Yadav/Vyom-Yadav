@@ -18,7 +18,12 @@
 
 ### Languages and Tools:
 
-<img src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" height="30"> &nbsp; &nbsp;  <img src="https://www.techbaz.org/Course/img/c-logo.png" height="30"> &nbsp; &nbsp; <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" height="30"> &nbsp; &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="25">&nbsp; &nbsp;
+<img src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" height="30"> &nbsp; &nbsp;  <img src="https://www.techbaz.org/Course/img/c-logo.png" height="30"> &nbsp; &nbsp;
+ <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" height="30"> &nbsp; &nbsp;
+<img src="https://e7.pngegg.com/pngimages/6/979/png-clipart-spring-framework-computer-icons-spring-web-flow-java-advancement-leaf-logo.png" height="30"> &nbsp; &nbsp; 
+<img src="https://img.favpng.com/11/23/4/hibernate-object-relational-mapping-java-spring-framework-software-framework-png-favpng-J8zvFPmUemCcV5YUsQ7qP7XqF.jpg" height="30"> &nbsp; &nbsp;
+
+<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" height="30"> &nbsp; &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="25">&nbsp; &nbsp;
 ---
 
 ### :zap: Recent Activity
