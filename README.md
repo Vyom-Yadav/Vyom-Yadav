@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-<img src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" height="30"> &nbsp; &nbsp;  <img src="https://www.techbaz.org/Course/img/c-logo.png" height="30"> &nbsp; &nbsp;  <img src="https://image.flaticon.com/icons/png/512/25/25231.png" height="30"> &nbsp; <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" height="30"> &nbsp; &nbsp; <img src="https://www.tinkercad.com/favicon.ico" height="30"> &nbsp; &nbsp;  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="25">&nbsp; &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="25"> &nbsp; &nbsp; <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" height="25">
+<img src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" height="30"> &nbsp; &nbsp;  <img src="https://www.techbaz.org/Course/img/c-logo.png" height="30"> &nbsp; &nbsp; <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" height="30"> &nbsp; &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="25">&nbsp; &nbsp;
 ---
 
 ### :zap: Recent Activity
