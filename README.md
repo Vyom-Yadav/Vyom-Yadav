@@ -26,6 +26,8 @@
 <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="intellij" height="30"> &nbsp; &nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="git" height="25">&nbsp; &nbsp;
 
+![counter](https://enpd32rp4uhhkkc.m.pipedream.net)
+
 ---
 
 ### :zap: Recent Activity
