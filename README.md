@@ -26,8 +26,6 @@
 <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="intellij" height="30"> &nbsp; &nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="git" height="25">&nbsp; &nbsp;
 
-![counter](https://enpd32rp4uhhkkc.m.pipedream.net)
-
 ---
 
 ### :zap: Recent Activity
@@ -39,5 +37,9 @@
 4. 🗣 Commented on [#11298](https://github.com/checkstyle/checkstyle/issues/11298) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 5. 💪 Opened PR [#11290](https://github.com/checkstyle/checkstyle/pull/11290) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
+
+---
+![counter](https://enpd32rp4uhhkkc.m.pipedream.net)
+
 
 
