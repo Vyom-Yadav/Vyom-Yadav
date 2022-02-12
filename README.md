@@ -31,11 +31,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11299](https://github.com/checkstyle/checkstyle/issues/11299) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#11051](https://github.com/checkstyle/checkstyle/issues/11051) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#10904](https://github.com/checkstyle/checkstyle/issues/10904) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#11300](https://github.com/checkstyle/checkstyle/issues/11300) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 💪 Opened PR [#29](https://github.com/CS-SI/Orekit/pull/29) in [CS-SI/Orekit](https://github.com/CS-SI/Orekit)
+1. 🗣 Commented on [#10904](https://github.com/checkstyle/checkstyle/issues/10904) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#11299](https://github.com/checkstyle/checkstyle/issues/11299) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#11051](https://github.com/checkstyle/checkstyle/issues/11051) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#10904](https://github.com/checkstyle/checkstyle/issues/10904) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 🗣 Commented on [#11300](https://github.com/checkstyle/checkstyle/issues/11300) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
