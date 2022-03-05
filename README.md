@@ -7,7 +7,7 @@
 
 ## I'm a Student, Footballer and an Open Source Enthusiast
 
-- 🌱 I’m currently learning to write shell scripts.
+- 🌱 I’m currently learning k8s, docker and microservices.
 - 👯 I’m looking to contribute to Java projects
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
