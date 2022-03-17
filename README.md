@@ -31,11 +31,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11425](https://github.com/checkstyle/checkstyle/issues/11425) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. ❗️ Opened issue [#11425](https://github.com/checkstyle/checkstyle/issues/11425) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#10737](https://github.com/checkstyle/checkstyle/issues/10737) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 💪 Opened PR [#11424](https://github.com/checkstyle/checkstyle/pull/11424) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#646](https://github.com/kubernetes/ingress-nginx/issues/646) in [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
+1. 🗣 Commented on [#11383](https://github.com/checkstyle/checkstyle/issues/11383) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#11425](https://github.com/checkstyle/checkstyle/issues/11425) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. ❗️ Opened issue [#11425](https://github.com/checkstyle/checkstyle/issues/11425) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#10737](https://github.com/checkstyle/checkstyle/issues/10737) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 💪 Opened PR [#11424](https://github.com/checkstyle/checkstyle/pull/11424) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
