@@ -32,10 +32,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#39](https://github.com/Vyom-Yadav/actions-test/issues/39) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
-2. 💪 Opened PR [#39](https://github.com/Vyom-Yadav/actions-test/pull/39) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
-3. ❗️ Opened issue [#38](https://github.com/Vyom-Yadav/actions-test/issues/38) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
-4. ❗️ Opened issue [#37](https://github.com/Vyom-Yadav/actions-test/issues/37) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
-5. 🎉 Merged PR [#36](https://github.com/Vyom-Yadav/actions-test/pull/36) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
+2. 🗣 Commented on [#39](https://github.com/Vyom-Yadav/actions-test/issues/39) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
+3. 🗣 Commented on [#39](https://github.com/Vyom-Yadav/actions-test/issues/39) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
+4. 🗣 Commented on [#39](https://github.com/Vyom-Yadav/actions-test/issues/39) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
+5. 🗣 Commented on [#39](https://github.com/Vyom-Yadav/actions-test/issues/39) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
 <!--END_SECTION:activity-->
 
 ---
