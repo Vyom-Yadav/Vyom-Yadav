@@ -32,10 +32,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11075](https://github.com/checkstyle/checkstyle/issues/11075) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#11443](https://github.com/checkstyle/checkstyle/issues/11443) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#39](https://github.com/Vyom-Yadav/actions-test/issues/39) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
-4. 💪 Opened PR [#11461](https://github.com/checkstyle/checkstyle/pull/11461) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. ❗️ Opened issue [#11460](https://github.com/checkstyle/checkstyle/issues/11460) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#11075](https://github.com/checkstyle/checkstyle/issues/11075) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#11443](https://github.com/checkstyle/checkstyle/issues/11443) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#39](https://github.com/Vyom-Yadav/actions-test/issues/39) in [Vyom-Yadav/actions-test](https://github.com/Vyom-Yadav/actions-test)
+5. 💪 Opened PR [#11461](https://github.com/checkstyle/checkstyle/pull/11461) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
