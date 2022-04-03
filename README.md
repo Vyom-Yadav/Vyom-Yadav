@@ -40,7 +40,7 @@
 
 ---
 
-[![Vyom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vyom-Yadav&theme=dark)](https://github.com/Vyom-Yadav/github-readme-stats)
+[![Vyom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vyom-Yadav&theme=dark&hide=stars)](https://github.com/Vyom-Yadav/github-readme-stats)
 
 ![counter](https://enpd32rp4uhhkkc.m.pipedream.net)
 
