@@ -32,10 +32,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9999](https://github.com/checkstyle/checkstyle/issues/9999) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. ❗️ Opened issue [#850](https://github.com/TNG/ArchUnit/issues/850) in [TNG/ArchUnit](https://github.com/TNG/ArchUnit)
-3. ❗️ Opened issue [#381](https://github.com/codespecs/daikon/issues/381) in [codespecs/daikon](https://github.com/codespecs/daikon)
-4. 🗣 Commented on [#11468](https://github.com/checkstyle/checkstyle/issues/11468) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#11231](https://github.com/checkstyle/checkstyle/issues/11231) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#381](https://github.com/codespecs/daikon/issues/381) in [codespecs/daikon](https://github.com/codespecs/daikon)
+3. 🗣 Commented on [#9999](https://github.com/checkstyle/checkstyle/issues/9999) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. ❗️ Opened issue [#850](https://github.com/TNG/ArchUnit/issues/850) in [TNG/ArchUnit](https://github.com/TNG/ArchUnit)
+5. ❗️ Opened issue [#381](https://github.com/codespecs/daikon/issues/381) in [codespecs/daikon](https://github.com/codespecs/daikon)
 <!--END_SECTION:activity-->
 
 ---
