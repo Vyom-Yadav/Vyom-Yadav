@@ -31,11 +31,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#381](https://github.com/codespecs/daikon/issues/381) in [codespecs/daikon](https://github.com/codespecs/daikon)
-2. 🗣 Commented on [#9999](https://github.com/checkstyle/checkstyle/issues/9999) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#381](https://github.com/codespecs/daikon/issues/381) in [codespecs/daikon](https://github.com/codespecs/daikon)
-4. 🗣 Commented on [#9999](https://github.com/checkstyle/checkstyle/issues/9999) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. ❗️ Opened issue [#850](https://github.com/TNG/ArchUnit/issues/850) in [TNG/ArchUnit](https://github.com/TNG/ArchUnit)
+1. 🗣 Commented on [#11551](https://github.com/checkstyle/checkstyle/issues/11551) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 💪 Opened PR [#11551](https://github.com/checkstyle/checkstyle/pull/11551) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#11427](https://github.com/checkstyle/checkstyle/issues/11427) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#381](https://github.com/codespecs/daikon/issues/381) in [codespecs/daikon](https://github.com/codespecs/daikon)
+5. 🗣 Commented on [#9999](https://github.com/checkstyle/checkstyle/issues/9999) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
