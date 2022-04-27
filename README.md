@@ -35,7 +35,7 @@
 2. 🗣 Commented on [#11571](https://github.com/checkstyle/checkstyle/issues/11571) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 3. 🗣 Commented on [#11571](https://github.com/checkstyle/checkstyle/issues/11571) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 4. 🗣 Commented on [#11571](https://github.com/checkstyle/checkstyle/issues/11571) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 💪 Opened PR [#11571](https://github.com/checkstyle/checkstyle/pull/11571) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 🗣 Commented on [#11571](https://github.com/checkstyle/checkstyle/issues/11571) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
