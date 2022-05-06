@@ -31,8 +31,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#603](https://github.com/checkstyle/contribution/issues/603) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
-2. 🗣 Commented on [#11571](https://github.com/checkstyle/checkstyle/issues/11571) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#11231](https://github.com/checkstyle/checkstyle/issues/11231) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#603](https://github.com/checkstyle/contribution/issues/603) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
 3. 🗣 Commented on [#11571](https://github.com/checkstyle/checkstyle/issues/11571) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 4. 🗣 Commented on [#11571](https://github.com/checkstyle/checkstyle/issues/11571) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 5. 🗣 Commented on [#11571](https://github.com/checkstyle/checkstyle/issues/11571) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
