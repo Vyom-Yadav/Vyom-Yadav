@@ -31,11 +31,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11673](https://github.com/checkstyle/checkstyle/issues/11673) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 💪 Opened PR [#11672](https://github.com/checkstyle/checkstyle/pull/11672) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. ❗️ Opened issue [#3999](https://github.com/EddieHubCommunity/support/issues/3999) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#11665](https://github.com/checkstyle/checkstyle/issues/11665) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#11665](https://github.com/checkstyle/checkstyle/issues/11665) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#2](https://github.com/DeCodeCafe/OpenSource-Cafe/issues/2) in [DeCodeCafe/OpenSource-Cafe](https://github.com/DeCodeCafe/OpenSource-Cafe)
+2. 🗣 Commented on [#2](https://github.com/DeCodeCafe/OpenSource-Cafe/issues/2) in [DeCodeCafe/OpenSource-Cafe](https://github.com/DeCodeCafe/OpenSource-Cafe)
+3. 💪 Opened PR [#2](https://github.com/DeCodeCafe/OpenSource-Cafe/pull/2) in [DeCodeCafe/OpenSource-Cafe](https://github.com/DeCodeCafe/OpenSource-Cafe)
+4. 🗣 Commented on [#11673](https://github.com/checkstyle/checkstyle/issues/11673) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 💪 Opened PR [#11672](https://github.com/checkstyle/checkstyle/pull/11672) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
