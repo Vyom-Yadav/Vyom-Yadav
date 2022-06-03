@@ -31,11 +31,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/DeCodeCafe/OpenSource-Cafe/pull/4) in [DeCodeCafe/OpenSource-Cafe](https://github.com/DeCodeCafe/OpenSource-Cafe)
-2. ❗️ Closed issue [#3](https://github.com/DeCodeCafe/OpenSource-Cafe/issues/3) in [DeCodeCafe/OpenSource-Cafe](https://github.com/DeCodeCafe/OpenSource-Cafe)
-3. 🗣 Commented on [#2](https://github.com/DeCodeCafe/OpenSource-Cafe/issues/2) in [DeCodeCafe/OpenSource-Cafe](https://github.com/DeCodeCafe/OpenSource-Cafe)
+1. 🗣 Commented on [#11693](https://github.com/checkstyle/checkstyle/issues/11693) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🎉 Merged PR [#4](https://github.com/DeCodeCafe/OpenSource-Cafe/pull/4) in [DeCodeCafe/OpenSource-Cafe](https://github.com/DeCodeCafe/OpenSource-Cafe)
+3. ❗️ Closed issue [#3](https://github.com/DeCodeCafe/OpenSource-Cafe/issues/3) in [DeCodeCafe/OpenSource-Cafe](https://github.com/DeCodeCafe/OpenSource-Cafe)
 4. 🗣 Commented on [#2](https://github.com/DeCodeCafe/OpenSource-Cafe/issues/2) in [DeCodeCafe/OpenSource-Cafe](https://github.com/DeCodeCafe/OpenSource-Cafe)
-5. 💪 Opened PR [#2](https://github.com/DeCodeCafe/OpenSource-Cafe/pull/2) in [DeCodeCafe/OpenSource-Cafe](https://github.com/DeCodeCafe/OpenSource-Cafe)
+5. 🗣 Commented on [#2](https://github.com/DeCodeCafe/OpenSource-Cafe/issues/2) in [DeCodeCafe/OpenSource-Cafe](https://github.com/DeCodeCafe/OpenSource-Cafe)
 <!--END_SECTION:activity-->
 
 ---
