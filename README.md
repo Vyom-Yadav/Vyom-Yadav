@@ -31,11 +31,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11707](https://github.com/checkstyle/checkstyle/pull/11707) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#11665](https://github.com/checkstyle/checkstyle/issues/11665) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. ❌ Closed PR [#11694](https://github.com/checkstyle/checkstyle/pull/11694) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#11694](https://github.com/checkstyle/checkstyle/issues/11694) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#11](https://github.com/DeCodeCafe/OpenSource-Cafe/issues/11) in [DeCodeCafe/OpenSource-Cafe](https://github.com/DeCodeCafe/OpenSource-Cafe)
+1. 🗣 Commented on [#11468](https://github.com/checkstyle/checkstyle/issues/11468) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#11468](https://github.com/checkstyle/checkstyle/issues/11468) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 💪 Opened PR [#11707](https://github.com/checkstyle/checkstyle/pull/11707) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#11665](https://github.com/checkstyle/checkstyle/issues/11665) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. ❌ Closed PR [#11694](https://github.com/checkstyle/checkstyle/pull/11694) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
