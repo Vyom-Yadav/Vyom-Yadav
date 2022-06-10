@@ -31,11 +31,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11707](https://github.com/checkstyle/checkstyle/issues/11707) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#2](https://github.com/wyphan/wyphan.github.io/issues/2) in [wyphan/wyphan.github.io](https://github.com/wyphan/wyphan.github.io)
-3. 🗣 Commented on [#11468](https://github.com/checkstyle/checkstyle/issues/11468) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#11468](https://github.com/checkstyle/checkstyle/issues/11468) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 💪 Opened PR [#11707](https://github.com/checkstyle/checkstyle/pull/11707) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#11672](https://github.com/checkstyle/checkstyle/issues/11672) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#11707](https://github.com/checkstyle/checkstyle/issues/11707) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#11672](https://github.com/checkstyle/checkstyle/issues/11672) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#11707](https://github.com/checkstyle/checkstyle/issues/11707) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 🗣 Commented on [#2](https://github.com/wyphan/wyphan.github.io/issues/2) in [wyphan/wyphan.github.io](https://github.com/wyphan/wyphan.github.io)
 <!--END_SECTION:activity-->
 
 ---
