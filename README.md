@@ -32,10 +32,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11842](https://github.com/checkstyle/checkstyle/issues/11842) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 💪 Opened PR [#11842](https://github.com/checkstyle/checkstyle/pull/11842) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#11841](https://github.com/checkstyle/checkstyle/issues/11841) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 💪 Opened PR [#11841](https://github.com/checkstyle/checkstyle/pull/11841) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#11840](https://github.com/checkstyle/checkstyle/issues/11840) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#11836](https://github.com/checkstyle/checkstyle/issues/11836) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#11840](https://github.com/checkstyle/checkstyle/issues/11840) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#11841](https://github.com/checkstyle/checkstyle/issues/11841) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 🗣 Commented on [#11839](https://github.com/checkstyle/checkstyle/issues/11839) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
