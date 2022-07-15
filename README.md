@@ -31,11 +31,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/DeCodeCafe/Community-Website/pull/4) in [DeCodeCafe/Community-Website](https://github.com/DeCodeCafe/Community-Website)
-2. ❗️ Opened issue [#3](https://github.com/DeCodeCafe/Community-Website/issues/3) in [DeCodeCafe/Community-Website](https://github.com/DeCodeCafe/Community-Website)
-3. 💪 Opened PR [#2](https://github.com/DeCodeCafe/Community-Website/pull/2) in [DeCodeCafe/Community-Website](https://github.com/DeCodeCafe/Community-Website)
-4. ❗️ Opened issue [#1](https://github.com/DeCodeCafe/Community-Website/issues/1) in [DeCodeCafe/Community-Website](https://github.com/DeCodeCafe/Community-Website)
-5. ❗️ Opened issue [#11895](https://github.com/checkstyle/checkstyle/issues/11895) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#7](https://github.com/DeCodeCafe/Community-Website/issues/7) in [DeCodeCafe/Community-Website](https://github.com/DeCodeCafe/Community-Website)
+2. 💪 Opened PR [#4](https://github.com/DeCodeCafe/Community-Website/pull/4) in [DeCodeCafe/Community-Website](https://github.com/DeCodeCafe/Community-Website)
+3. ❗️ Opened issue [#3](https://github.com/DeCodeCafe/Community-Website/issues/3) in [DeCodeCafe/Community-Website](https://github.com/DeCodeCafe/Community-Website)
+4. 💪 Opened PR [#2](https://github.com/DeCodeCafe/Community-Website/pull/2) in [DeCodeCafe/Community-Website](https://github.com/DeCodeCafe/Community-Website)
+5. ❗️ Opened issue [#1](https://github.com/DeCodeCafe/Community-Website/issues/1) in [DeCodeCafe/Community-Website](https://github.com/DeCodeCafe/Community-Website)
 <!--END_SECTION:activity-->
 
 ---
