@@ -31,11 +31,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11899](https://github.com/checkstyle/checkstyle/pull/11899) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 💪 Opened PR [#11898](https://github.com/checkstyle/checkstyle/pull/11898) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#11891](https://github.com/checkstyle/checkstyle/issues/11891) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#7](https://github.com/DeCodeCafe/Community-Website/issues/7) in [DeCodeCafe/Community-Website](https://github.com/DeCodeCafe/Community-Website)
-5. 💪 Opened PR [#4](https://github.com/DeCodeCafe/Community-Website/pull/4) in [DeCodeCafe/Community-Website](https://github.com/DeCodeCafe/Community-Website)
+1. 🗣 Commented on [#11821](https://github.com/checkstyle/checkstyle/issues/11821) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. ❗️ Opened issue [#11902](https://github.com/checkstyle/checkstyle/issues/11902) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#11821](https://github.com/checkstyle/checkstyle/issues/11821) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 💪 Opened PR [#11899](https://github.com/checkstyle/checkstyle/pull/11899) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 💪 Opened PR [#11898](https://github.com/checkstyle/checkstyle/pull/11898) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
