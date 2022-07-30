@@ -8,7 +8,7 @@
 ## I'm a Student, Footballer and an Open Source Enthusiast
 
 - 🌱 I’m currently learning technologies revolving around blockchain.
-- 👯 I’m looking to contribute to Java projects
+- 👯 I’m looking to contribute to Java, Javascript, GoLang projects.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Spotify Playing 🎧
