@@ -32,10 +32,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6658](https://github.com/checkstyle/checkstyle/issues/6658) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#1066](https://github.com/hcoles/pitest/issues/1066) in [hcoles/pitest](https://github.com/hcoles/pitest)
-3. 💪 Opened PR [#12005](https://github.com/checkstyle/checkstyle/pull/12005) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 💪 Opened PR [#12004](https://github.com/checkstyle/checkstyle/pull/12004) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#11972](https://github.com/checkstyle/checkstyle/issues/11972) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#6658](https://github.com/checkstyle/checkstyle/issues/6658) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#1066](https://github.com/hcoles/pitest/issues/1066) in [hcoles/pitest](https://github.com/hcoles/pitest)
+4. 💪 Opened PR [#12005](https://github.com/checkstyle/checkstyle/pull/12005) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 💪 Opened PR [#12004](https://github.com/checkstyle/checkstyle/pull/12004) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
