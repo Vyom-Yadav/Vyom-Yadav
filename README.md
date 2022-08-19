@@ -7,7 +7,7 @@
 
 ## I'm a Student, Footballer and an Open Source Enthusiast
 
-- 🌱 I’m currently learning technologies revolving around blockchain.
+- 🌱 I’m currently learning technologies revolving around blockchain and containers
 - 👯 I’m looking to contribute to Java, Javascript, Golang projects.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
