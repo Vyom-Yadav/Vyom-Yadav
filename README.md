@@ -34,10 +34,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12060](https://github.com/checkstyle/checkstyle/issues/12060) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#12063](https://github.com/checkstyle/checkstyle/issues/12063) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#444](https://github.com/google/error-prone/issues/444) in [google/error-prone](https://github.com/google/error-prone)
-4. 💪 Opened PR [#12098](https://github.com/checkstyle/checkstyle/pull/12098) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#12053](https://github.com/checkstyle/checkstyle/issues/12053) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#12060](https://github.com/checkstyle/checkstyle/issues/12060) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#12063](https://github.com/checkstyle/checkstyle/issues/12063) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#444](https://github.com/google/error-prone/issues/444) in [google/error-prone](https://github.com/google/error-prone)
+5. 💪 Opened PR [#12098](https://github.com/checkstyle/checkstyle/pull/12098) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
