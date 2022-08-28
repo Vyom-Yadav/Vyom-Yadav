@@ -33,11 +33,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#430](https://github.com/checkstyle/sonar-checkstyle/pull/430) in [checkstyle/sonar-checkstyle](https://github.com/checkstyle/sonar-checkstyle)
-2. 💪 Opened PR [#646](https://github.com/checkstyle/contribution/pull/646) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
-3. 💪 Opened PR [#645](https://github.com/checkstyle/contribution/pull/645) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
-4. 💪 Opened PR [#644](https://github.com/checkstyle/contribution/pull/644) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
-5. 🗣 Commented on [#1223](https://github.com/kubernetes-client/java/issues/1223) in [kubernetes-client/java](https://github.com/kubernetes-client/java)
+1. 🗣 Commented on [#12099](https://github.com/checkstyle/checkstyle/issues/12099) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 💪 Opened PR [#430](https://github.com/checkstyle/sonar-checkstyle/pull/430) in [checkstyle/sonar-checkstyle](https://github.com/checkstyle/sonar-checkstyle)
+3. 💪 Opened PR [#646](https://github.com/checkstyle/contribution/pull/646) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
+4. 💪 Opened PR [#645](https://github.com/checkstyle/contribution/pull/645) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
+5. 💪 Opened PR [#644](https://github.com/checkstyle/contribution/pull/644) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
 <!--END_SECTION:activity-->
 
 ---
