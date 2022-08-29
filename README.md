@@ -33,11 +33,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12137](https://github.com/checkstyle/checkstyle/issues/12137) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 💪 Opened PR [#12137](https://github.com/checkstyle/checkstyle/pull/12137) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 💪 Opened PR [#12135](https://github.com/checkstyle/checkstyle/pull/12135) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#644](https://github.com/checkstyle/contribution/issues/644) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
-5. 🗣 Commented on [#646](https://github.com/checkstyle/contribution/issues/646) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
+1. ❗️ Opened issue [#950](https://github.com/TNG/ArchUnit/issues/950) in [TNG/ArchUnit](https://github.com/TNG/ArchUnit)
+2. 🗣 Commented on [#12137](https://github.com/checkstyle/checkstyle/issues/12137) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 💪 Opened PR [#12137](https://github.com/checkstyle/checkstyle/pull/12137) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 💪 Opened PR [#12135](https://github.com/checkstyle/checkstyle/pull/12135) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 🗣 Commented on [#644](https://github.com/checkstyle/contribution/issues/644) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
 <!--END_SECTION:activity-->
 
 ---
