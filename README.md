@@ -33,11 +33,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12099](https://github.com/checkstyle/checkstyle/issues/12099) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#12099](https://github.com/checkstyle/checkstyle/issues/12099) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 💪 Opened PR [#430](https://github.com/checkstyle/sonar-checkstyle/pull/430) in [checkstyle/sonar-checkstyle](https://github.com/checkstyle/sonar-checkstyle)
-4. 💪 Opened PR [#646](https://github.com/checkstyle/contribution/pull/646) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
-5. 💪 Opened PR [#645](https://github.com/checkstyle/contribution/pull/645) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
+1. 🗣 Commented on [#644](https://github.com/checkstyle/contribution/issues/644) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
+2. 🗣 Commented on [#646](https://github.com/checkstyle/contribution/issues/646) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
+3. 🗣 Commented on [#12099](https://github.com/checkstyle/checkstyle/issues/12099) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#12099](https://github.com/checkstyle/checkstyle/issues/12099) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 💪 Opened PR [#430](https://github.com/checkstyle/sonar-checkstyle/pull/430) in [checkstyle/sonar-checkstyle](https://github.com/checkstyle/sonar-checkstyle)
 <!--END_SECTION:activity-->
 
 ---
