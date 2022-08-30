@@ -33,11 +33,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12099](https://github.com/checkstyle/checkstyle/issues/12099) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. ❗️ Closed issue [#950](https://github.com/TNG/ArchUnit/issues/950) in [TNG/ArchUnit](https://github.com/TNG/ArchUnit)
-3. 🗣 Commented on [#950](https://github.com/TNG/ArchUnit/issues/950) in [TNG/ArchUnit](https://github.com/TNG/ArchUnit)
-4. ❗️ Opened issue [#950](https://github.com/TNG/ArchUnit/issues/950) in [TNG/ArchUnit](https://github.com/TNG/ArchUnit)
-5. 🗣 Commented on [#12137](https://github.com/checkstyle/checkstyle/issues/12137) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#12137](https://github.com/checkstyle/checkstyle/issues/12137) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#12099](https://github.com/checkstyle/checkstyle/issues/12099) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. ❗️ Closed issue [#950](https://github.com/TNG/ArchUnit/issues/950) in [TNG/ArchUnit](https://github.com/TNG/ArchUnit)
+4. 🗣 Commented on [#950](https://github.com/TNG/ArchUnit/issues/950) in [TNG/ArchUnit](https://github.com/TNG/ArchUnit)
+5. ❗️ Opened issue [#950](https://github.com/TNG/ArchUnit/issues/950) in [TNG/ArchUnit](https://github.com/TNG/ArchUnit)
 <!--END_SECTION:activity-->
 
 ---
