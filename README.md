@@ -33,11 +33,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11765](https://github.com/checkstyle/checkstyle/issues/11765) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#12215](https://github.com/checkstyle/checkstyle/issues/12215) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 💪 Opened PR [#12218](https://github.com/checkstyle/checkstyle/pull/12218) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 💪 Opened PR [#12217](https://github.com/checkstyle/checkstyle/pull/12217) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#11973](https://github.com/checkstyle/checkstyle/issues/11973) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#12215](https://github.com/checkstyle/checkstyle/issues/12215) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#11765](https://github.com/checkstyle/checkstyle/issues/11765) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#12215](https://github.com/checkstyle/checkstyle/issues/12215) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 💪 Opened PR [#12218](https://github.com/checkstyle/checkstyle/pull/12218) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 💪 Opened PR [#12217](https://github.com/checkstyle/checkstyle/pull/12217) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
