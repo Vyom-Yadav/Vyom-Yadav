@@ -36,8 +36,8 @@
 1. 🗣 Commented on [#12244](https://github.com/checkstyle/checkstyle/issues/12244) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 2. 🗣 Commented on [#12244](https://github.com/checkstyle/checkstyle/issues/12244) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 3. 🗣 Commented on [#12244](https://github.com/checkstyle/checkstyle/issues/12244) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 💪 Opened PR [#4916](https://github.com/kyverno/kyverno/pull/4916) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 🗣 Commented on [#12244](https://github.com/checkstyle/checkstyle/issues/12244) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#12244](https://github.com/checkstyle/checkstyle/issues/12244) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 💪 Opened PR [#4916](https://github.com/kyverno/kyverno/pull/4916) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 ---
