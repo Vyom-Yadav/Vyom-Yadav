@@ -33,11 +33,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12244](https://github.com/checkstyle/checkstyle/pull/12244) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#12244](https://github.com/checkstyle/checkstyle/issues/12244) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#4916](https://github.com/kyverno/kyverno/issues/4916) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. ❗️ Opened issue [#652](https://github.com/kyverno/website/issues/652) in [kyverno/website](https://github.com/kyverno/website)
-5. 🗣 Commented on [#12244](https://github.com/checkstyle/checkstyle/issues/12244) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 💪 Opened PR [#12313](https://github.com/checkstyle/checkstyle/pull/12313) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. ❌ Closed PR [#12244](https://github.com/checkstyle/checkstyle/pull/12244) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#12244](https://github.com/checkstyle/checkstyle/issues/12244) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#4916](https://github.com/kyverno/kyverno/issues/4916) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. ❗️ Opened issue [#652](https://github.com/kyverno/website/issues/652) in [kyverno/website](https://github.com/kyverno/website)
 <!--END_SECTION:activity-->
 
 ---
