@@ -46,4 +46,4 @@
 
 ![counter](https://enpd32rp4uhhkkc.m.pipedream.net)
 
-[![wakatime](https://wakatime.com/badge/user/939457b0-41b0-4830-8244-95c652fadddb.svg)](https://wakatime.com/@939457b0-41b0-4830-8244-95c652fadddb)
+<a href="https://wakatime.com/@939457b0-41b0-4830-8244-95c652fadddb"><img src="https://wakatime.com/badge/user/939457b0-41b0-4830-8244-95c652fadddb.svg" alt="Total time coded since Jan 12 2022" /></a>
