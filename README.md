@@ -35,9 +35,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5668](https://github.com/kyverno/kyverno/issues/5668) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 2. 🗣 Commented on [#5668](https://github.com/kyverno/kyverno/issues/5668) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 💪 Opened PR [#12525](https://github.com/checkstyle/checkstyle/pull/12525) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. ❗️ Opened issue [#12524](https://github.com/checkstyle/checkstyle/issues/12524) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. ❌ Closed PR [#12366](https://github.com/checkstyle/checkstyle/pull/12366) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#5668](https://github.com/kyverno/kyverno/issues/5668) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 💪 Opened PR [#12525](https://github.com/checkstyle/checkstyle/pull/12525) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. ❗️ Opened issue [#12524](https://github.com/checkstyle/checkstyle/issues/12524) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
