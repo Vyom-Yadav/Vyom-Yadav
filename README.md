@@ -33,10 +33,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12546](https://github.com/checkstyle/checkstyle/issues/12546) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#22](https://github.com/kubesimplify/ksctl/issues/22) in [kubesimplify/ksctl](https://github.com/kubesimplify/ksctl)
-3. 🗣 Commented on [#5668](https://github.com/kyverno/kyverno/issues/5668) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#5668](https://github.com/kyverno/kyverno/issues/5668) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#5785](https://github.com/kyverno/kyverno/issues/5785) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 🗣 Commented on [#5785](https://github.com/kyverno/kyverno/issues/5785) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. 🗣 Commented on [#12546](https://github.com/checkstyle/checkstyle/issues/12546) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#22](https://github.com/kubesimplify/ksctl/issues/22) in [kubesimplify/ksctl](https://github.com/kubesimplify/ksctl)
 5. 🗣 Commented on [#5668](https://github.com/kyverno/kyverno/issues/5668) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
