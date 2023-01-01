@@ -33,11 +33,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12572](https://github.com/checkstyle/checkstyle/issues/12572) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 💪 Opened PR [#12573](https://github.com/checkstyle/checkstyle/pull/12573) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. ❗️ Opened issue [#12572](https://github.com/checkstyle/checkstyle/issues/12572) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#12565](https://github.com/checkstyle/checkstyle/issues/12565) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#12565](https://github.com/checkstyle/checkstyle/issues/12565) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 💪 Opened PR [#750](https://github.com/checkstyle/contribution/pull/750) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
+2. 💪 Opened PR [#71](https://github.com/sevntu-checkstyle/methods-distance/pull/71) in [sevntu-checkstyle/methods-distance](https://github.com/sevntu-checkstyle/methods-distance)
+3. 💪 Opened PR [#976](https://github.com/sevntu-checkstyle/sevntu.checkstyle/pull/976) in [sevntu-checkstyle/sevntu.checkstyle](https://github.com/sevntu-checkstyle/sevntu.checkstyle)
+4. 🗣 Commented on [#12572](https://github.com/checkstyle/checkstyle/issues/12572) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 💪 Opened PR [#12573](https://github.com/checkstyle/checkstyle/pull/12573) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
