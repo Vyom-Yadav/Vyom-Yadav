@@ -33,11 +33,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11407](https://github.com/checkstyle/checkstyle/issues/11407) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#12586](https://github.com/checkstyle/checkstyle/issues/12586) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#12586](https://github.com/checkstyle/checkstyle/issues/12586) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#5886](https://github.com/kyverno/kyverno/issues/5886) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 💪 Opened PR [#5886](https://github.com/kyverno/kyverno/pull/5886) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. ❌ Closed PR [#12612](https://github.com/checkstyle/checkstyle/pull/12612) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#12612](https://github.com/checkstyle/checkstyle/issues/12612) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 💪 Opened PR [#12612](https://github.com/checkstyle/checkstyle/pull/12612) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#11407](https://github.com/checkstyle/checkstyle/issues/11407) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 🗣 Commented on [#12586](https://github.com/checkstyle/checkstyle/issues/12586) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
