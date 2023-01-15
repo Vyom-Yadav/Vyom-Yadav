@@ -34,10 +34,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12614](https://github.com/checkstyle/checkstyle/issues/12614) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#5989](https://github.com/kyverno/kyverno/issues/5989) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 🗣 Commented on [#5989](https://github.com/kyverno/kyverno/issues/5989) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#307](https://github.com/mmumshad/kubernetes-the-hard-way/issues/307) in [mmumshad/kubernetes-the-hard-way](https://github.com/mmumshad/kubernetes-the-hard-way)
-5. 💪 Opened PR [#309](https://github.com/mmumshad/kubernetes-the-hard-way/pull/309) in [mmumshad/kubernetes-the-hard-way](https://github.com/mmumshad/kubernetes-the-hard-way)
+2. 🗣 Commented on [#12646](https://github.com/checkstyle/checkstyle/issues/12646) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. ❗️ Opened issue [#12646](https://github.com/checkstyle/checkstyle/issues/12646) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 💪 Opened PR [#6008](https://github.com/kyverno/kyverno/pull/6008) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#12614](https://github.com/checkstyle/checkstyle/issues/12614) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
