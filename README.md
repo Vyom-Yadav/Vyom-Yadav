@@ -18,20 +18,20 @@
 
 ### Certifications
 
-<img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="cka" height="100"> &nbsp; &nbsp;
+<img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="cka" height="120"> &nbsp; &nbsp;
 
 ### Languages and Tools:
 
-<img src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" alt="java" height="30"> &nbsp; &nbsp;
-<img src="https://www.techbaz.org/Course/img/c-logo.png" alt="c" height="30"> &nbsp; &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++" height="30"> &nbsp; &nbsp;
+<img src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" alt="java" height="40"> &nbsp; &nbsp;
+<img src="https://www.techbaz.org/Course/img/c-logo.png" alt="c" height="40"> &nbsp; &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++" height="40"> &nbsp; &nbsp;
 <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="go" height="40"> &nbsp; &nbsp;
-<img src="spring2.png" alt="spring" height="30"> &nbsp; &nbsp; 
-<img src="hibernate.png" alt="hibernate" height="30"> &nbsp; &nbsp;
-<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" height="25">&nbsp; &nbsp;
-<img src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Emblem.png" alt="k8s" height="25">&nbsp; &nbsp;
-<img src="https://repository-images.githubusercontent.com/169108858/35923880-823a-11e9-9089-0c9c102f9e6f" alt="kyverno" height="25">&nbsp; &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="git" height="25">&nbsp; &nbsp;
+<img src="spring2.png" alt="spring" height="40"> &nbsp; &nbsp; 
+<img src="hibernate.png" alt="hibernate" height="40"> &nbsp; &nbsp;
+<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" height="40">&nbsp; &nbsp;
+<img src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Emblem.png" alt="k8s" height="40">&nbsp; &nbsp;
+<img src="https://repository-images.githubusercontent.com/169108858/35923880-823a-11e9-9089-0c9c102f9e6f" alt="kyverno" height="40">&nbsp; &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="git" height="40">&nbsp; &nbsp;
 
 ### Spotify Playing 🎧
 
