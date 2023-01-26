@@ -1,20 +1,24 @@
 <h1 align="center"><em>Hi there, I'm Vyom </em><img src="https://user-images.githubusercontent.com/73777108/150582164-1a082835-3bad-4a81-b3c7-dad6e90c6e19.gif" width="50"></h1>
 
-<a href="https://www.linkedin.com/in/vyom-yadav-66a97918b/">
+<a href="https://www.linkedin.com/in/vyom-yadav/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="gitter" style="vertical-align:top; margin:6px 4px">
-</a>  
+</a>
+
+
+<a href="https://twitter.com/VyomYdv">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" alt="gitter" style="vertical-align:top; margin:6px 4px">
+</a>
 
 
 ## I'm a Student, Footballer and an Open Source Enthusiast
 
-- 🌱 I’m currently learning technologies revolving around blockchain and containers.
-- 👯 I’m looking to contribute to Java, Javascript, Golang projects.
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning technologies revolving around Kubernetes and Containers.
+- 👯 I’m looking to contribute to projects in Kubernetes ecosystem.
+- 🥅 2023 Goals: Learn more about Kubernetes ecosystem and technologies in Dev-Sec-Ops field.
 
-### Spotify Playing 🎧
+### Certifications
 
-[<img src="https://novatorem-git-master-vyom-yadav.vercel.app/api/spotify" alt="Vyom's Spotify Playing" width="350" />](https://open.spotify.com/user/312oauov5ttlvf6hg6yygyiz3m4m)
-
+<img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="cka" height="100"> &nbsp; &nbsp;
 
 ### Languages and Tools:
 
@@ -26,7 +30,12 @@
 <img src="hibernate.png" alt="hibernate" height="30"> &nbsp; &nbsp;
 <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" height="25">&nbsp; &nbsp;
 <img src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Emblem.png" alt="k8s" height="25">&nbsp; &nbsp;
+<img src="https://repository-images.githubusercontent.com/169108858/35923880-823a-11e9-9089-0c9c102f9e6f" alt="kyverno" height="25">&nbsp; &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="git" height="25">&nbsp; &nbsp;
+
+### Spotify Playing 🎧
+
+[<img src="https://novatorem-git-master-vyom-yadav.vercel.app/api/spotify" alt="Vyom's Spotify Playing" width="350" />](https://open.spotify.com/user/312oauov5ttlvf6hg6yygyiz3m4m)
 
 ---
 
