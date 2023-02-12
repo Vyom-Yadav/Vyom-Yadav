@@ -42,10 +42,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1106](https://github.com/kubearmor/KubeArmor/issues/1106) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
+1. ❌ Closed PR [#309](https://github.com/mmumshad/kubernetes-the-hard-way/pull/309) in [mmumshad/kubernetes-the-hard-way](https://github.com/mmumshad/kubernetes-the-hard-way)
 2. 🗣 Commented on [#1106](https://github.com/kubearmor/KubeArmor/issues/1106) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
-3. ❗️ Opened issue [#1106](https://github.com/kubearmor/KubeArmor/issues/1106) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
-4. 🗣 Commented on [#115675](https://github.com/kubernetes/kubernetes/issues/115675) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. 🗣 Commented on [#1106](https://github.com/kubearmor/KubeArmor/issues/1106) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
+4. ❗️ Opened issue [#1106](https://github.com/kubearmor/KubeArmor/issues/1106) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
 5. 🗣 Commented on [#115675](https://github.com/kubernetes/kubernetes/issues/115675) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
