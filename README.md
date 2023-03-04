@@ -42,11 +42,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12787](https://github.com/checkstyle/checkstyle/issues/12787) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#12795](https://github.com/checkstyle/checkstyle/issues/12795) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 💪 Opened PR [#12795](https://github.com/checkstyle/checkstyle/pull/12795) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#11672](https://github.com/checkstyle/checkstyle/issues/11672) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#11672](https://github.com/checkstyle/checkstyle/issues/11672) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#675](https://github.com/accuknox/discovery-engine/issues/675) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
+2. ❗️ Opened issue [#675](https://github.com/accuknox/discovery-engine/issues/675) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
+3. 🗣 Commented on [#12787](https://github.com/checkstyle/checkstyle/issues/12787) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#12795](https://github.com/checkstyle/checkstyle/issues/12795) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 💪 Opened PR [#12795](https://github.com/checkstyle/checkstyle/pull/12795) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
