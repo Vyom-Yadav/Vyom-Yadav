@@ -42,11 +42,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12794](https://github.com/checkstyle/checkstyle/issues/12794) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#11231](https://github.com/checkstyle/checkstyle/issues/11231) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#11231](https://github.com/checkstyle/checkstyle/issues/11231) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#12775](https://github.com/checkstyle/checkstyle/issues/12775) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#1037](https://github.com/kubearmor/policy-templates/issues/1037) in [kubearmor/policy-templates](https://github.com/kubearmor/policy-templates)
+1. 🗣 Commented on [#11672](https://github.com/checkstyle/checkstyle/issues/11672) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#11672](https://github.com/checkstyle/checkstyle/issues/11672) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 💪 Opened PR [#774](https://github.com/checkstyle/contribution/pull/774) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
+4. 🗣 Commented on [#11231](https://github.com/checkstyle/checkstyle/issues/11231) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 🗣 Commented on [#11672](https://github.com/checkstyle/checkstyle/issues/11672) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
