@@ -42,7 +42,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6543](https://github.com/kyverno/kyverno/issues/6543) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#763](https://github.com/checkstyle/contribution/issues/763) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
 2. 🗣 Commented on [#6543](https://github.com/kyverno/kyverno/issues/6543) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 3. 🗣 Commented on [#6543](https://github.com/kyverno/kyverno/issues/6543) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 4. 🗣 Commented on [#6543](https://github.com/kyverno/kyverno/issues/6543) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
