@@ -43,10 +43,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6543](https://github.com/kyverno/kyverno/issues/6543) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 🗣 Commented on [#115742](https://github.com/kubernetes/kubernetes/issues/115742) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. 🗣 Commented on [#6544](https://github.com/kyverno/kyverno/issues/6544) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#6399](https://github.com/kyverno/kyverno/issues/6399) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 🗣 Commented on [#6544](https://github.com/kyverno/kyverno/issues/6544) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 🗣 Commented on [#6543](https://github.com/kyverno/kyverno/issues/6543) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. 🗣 Commented on [#6543](https://github.com/kyverno/kyverno/issues/6543) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 🗣 Commented on [#6543](https://github.com/kyverno/kyverno/issues/6543) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#6543](https://github.com/kyverno/kyverno/issues/6543) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 ---
