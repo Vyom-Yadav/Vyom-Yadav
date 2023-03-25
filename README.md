@@ -42,11 +42,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6152](https://github.com/kyverno/kyverno/pull/6152) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 🗣 Commented on [#6152](https://github.com/kyverno/kyverno/issues/6152) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. ❗️ Opened issue [#24666](https://github.com/github/docs/issues/24666) in [github/docs](https://github.com/github/docs)
-4. ❗️ Opened issue [#12905](https://github.com/checkstyle/checkstyle/issues/12905) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#12897](https://github.com/checkstyle/checkstyle/issues/12897) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#12905](https://github.com/checkstyle/checkstyle/issues/12905) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#12905](https://github.com/checkstyle/checkstyle/issues/12905) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#12905](https://github.com/checkstyle/checkstyle/issues/12905) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. ❌ Closed PR [#6152](https://github.com/kyverno/kyverno/pull/6152) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#6152](https://github.com/kyverno/kyverno/issues/6152) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 ---
