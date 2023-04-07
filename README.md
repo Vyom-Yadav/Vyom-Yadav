@@ -43,10 +43,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11231](https://github.com/checkstyle/checkstyle/issues/11231) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. ❗️ Opened issue [#307](https://github.com/kubearmor/kubearmor-client/issues/307) in [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client)
-3. 🗣 Commented on [#12822](https://github.com/checkstyle/checkstyle/issues/12822) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#11231](https://github.com/checkstyle/checkstyle/issues/11231) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#12822](https://github.com/checkstyle/checkstyle/issues/12822) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#11231](https://github.com/checkstyle/checkstyle/issues/11231) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. ❗️ Opened issue [#307](https://github.com/kubearmor/kubearmor-client/issues/307) in [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client)
+4. 🗣 Commented on [#12822](https://github.com/checkstyle/checkstyle/issues/12822) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 🗣 Commented on [#11231](https://github.com/checkstyle/checkstyle/issues/11231) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
