@@ -42,7 +42,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11231](https://github.com/checkstyle/checkstyle/issues/11231) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. ❗️ Opened issue [#1258](https://github.com/k3d-io/k3d/issues/1258) in [k3d-io/k3d](https://github.com/k3d-io/k3d)
 2. 🗣 Commented on [#11231](https://github.com/checkstyle/checkstyle/issues/11231) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 3. 🗣 Commented on [#11231](https://github.com/checkstyle/checkstyle/issues/11231) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 4. 🗣 Commented on [#11231](https://github.com/checkstyle/checkstyle/issues/11231) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
