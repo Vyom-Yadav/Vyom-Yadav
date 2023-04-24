@@ -35,9 +35,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#714](https://github.com/accuknox/discovery-engine/issues/714) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
 2. 🗣 Commented on [#714](https://github.com/accuknox/discovery-engine/issues/714) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
-3. 🗣 Commented on [#11672](https://github.com/checkstyle/checkstyle/issues/11672) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 💪 Opened PR [#714](https://github.com/accuknox/discovery-engine/pull/714) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
-5. 🗣 Commented on [#11672](https://github.com/checkstyle/checkstyle/issues/11672) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#714](https://github.com/accuknox/discovery-engine/issues/714) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
+4. 🗣 Commented on [#11672](https://github.com/checkstyle/checkstyle/issues/11672) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 💪 Opened PR [#714](https://github.com/accuknox/discovery-engine/pull/714) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
 <!--END_SECTION:activity-->
 
 ---
