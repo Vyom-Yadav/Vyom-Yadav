@@ -33,11 +33,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1039](https://github.com/kubearmor/policy-templates/pull/1039) in [kubearmor/policy-templates](https://github.com/kubearmor/policy-templates)
-2. 🗣 Commented on [#714](https://github.com/accuknox/discovery-engine/issues/714) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
-3. 🗣 Commented on [#714](https://github.com/accuknox/discovery-engine/issues/714) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
-4. 🗣 Commented on [#1120](https://github.com/kubearmor/KubeArmor/issues/1120) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
-5. 🗣 Commented on [#1205](https://github.com/kubearmor/KubeArmor/issues/1205) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
+1. 🗣 Commented on [#716](https://github.com/accuknox/discovery-engine/issues/716) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
+2. 💪 Opened PR [#716](https://github.com/accuknox/discovery-engine/pull/716) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
+3. 💪 Opened PR [#1039](https://github.com/kubearmor/policy-templates/pull/1039) in [kubearmor/policy-templates](https://github.com/kubearmor/policy-templates)
+4. 🗣 Commented on [#714](https://github.com/accuknox/discovery-engine/issues/714) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
+5. 🗣 Commented on [#714](https://github.com/accuknox/discovery-engine/issues/714) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
 <!--END_SECTION:activity-->
 
 ---
