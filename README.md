@@ -33,11 +33,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#312](https://github.com/kubearmor/kubearmor-client/pull/312) in [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client)
-2. 🗣 Commented on [#1207](https://github.com/kubearmor/KubeArmor/issues/1207) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
-3. 💪 Opened PR [#1207](https://github.com/kubearmor/KubeArmor/pull/1207) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
-4. 🗣 Commented on [#716](https://github.com/accuknox/discovery-engine/issues/716) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
-5. 💪 Opened PR [#716](https://github.com/accuknox/discovery-engine/pull/716) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
+1. 🗣 Commented on [#718](https://github.com/accuknox/discovery-engine/issues/718) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
+2. ❗️ Opened issue [#718](https://github.com/accuknox/discovery-engine/issues/718) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
+3. 💪 Opened PR [#312](https://github.com/kubearmor/kubearmor-client/pull/312) in [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client)
+4. 🗣 Commented on [#1207](https://github.com/kubearmor/KubeArmor/issues/1207) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
+5. 💪 Opened PR [#1207](https://github.com/kubearmor/KubeArmor/pull/1207) in [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor)
 <!--END_SECTION:activity-->
 
 ---
