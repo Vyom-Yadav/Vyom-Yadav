@@ -33,11 +33,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#719](https://github.com/accuknox/discovery-engine/issues/719) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
-2. 🗣 Commented on [#11335](https://github.com/checkstyle/checkstyle/issues/11335) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#13059](https://github.com/checkstyle/checkstyle/issues/13059) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#11672](https://github.com/checkstyle/checkstyle/issues/11672) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#308](https://github.com/cli/cli/issues/308) in [cli/cli](https://github.com/cli/cli)
+1. 🗣 Commented on [#314](https://github.com/kubearmor/kubearmor-client/issues/314) in [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client)
+2. 💪 Opened PR [#314](https://github.com/kubearmor/kubearmor-client/pull/314) in [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client)
+3. ❗️ Opened issue [#313](https://github.com/kubearmor/kubearmor-client/issues/313) in [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client)
+4. 🗣 Commented on [#719](https://github.com/accuknox/discovery-engine/issues/719) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
+5. 🗣 Commented on [#719](https://github.com/accuknox/discovery-engine/issues/719) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
 <!--END_SECTION:activity-->
 
 ---
