@@ -33,11 +33,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13083](https://github.com/checkstyle/checkstyle/issues/13083) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🎉 Merged PR [#1](https://github.com/accuknox/kubernetes-cel-validator/pull/1) in [accuknox/kubernetes-cel-validator](https://github.com/accuknox/kubernetes-cel-validator)
 2. 🗣 Commented on [#13083](https://github.com/checkstyle/checkstyle/issues/13083) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. ❗️ Closed issue [#718](https://github.com/accuknox/discovery-engine/issues/718) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
-4. 🗣 Commented on [#718](https://github.com/accuknox/discovery-engine/issues/718) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
-5. 🎉 Merged PR [#719](https://github.com/accuknox/discovery-engine/pull/719) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
+3. 🗣 Commented on [#13083](https://github.com/checkstyle/checkstyle/issues/13083) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. ❗️ Closed issue [#718](https://github.com/accuknox/discovery-engine/issues/718) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
+5. 🗣 Commented on [#718](https://github.com/accuknox/discovery-engine/issues/718) in [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine)
 <!--END_SECTION:activity-->
 
 ---
