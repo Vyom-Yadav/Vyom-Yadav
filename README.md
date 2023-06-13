@@ -33,11 +33,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29751](https://github.com/kubernetes/test-infra/issues/29751) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-2. 🗣 Commented on [#13136](https://github.com/checkstyle/checkstyle/issues/13136) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#13109](https://github.com/checkstyle/checkstyle/issues/13109) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#13150](https://github.com/checkstyle/checkstyle/issues/13150) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#13179](https://github.com/checkstyle/checkstyle/issues/13179) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. ❗ Opened issue [#31](https://github.com/networkop/k8s-networking-guide/issues/31) in [networkop/k8s-networking-guide](https://github.com/networkop/k8s-networking-guide)
+2. 🗣 Commented on [#29751](https://github.com/kubernetes/test-infra/issues/29751) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+3. 🗣 Commented on [#13136](https://github.com/checkstyle/checkstyle/issues/13136) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#13109](https://github.com/checkstyle/checkstyle/issues/13109) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 🗣 Commented on [#13150](https://github.com/checkstyle/checkstyle/issues/13150) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
