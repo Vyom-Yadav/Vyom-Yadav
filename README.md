@@ -34,10 +34,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#13210](https://github.com/checkstyle/checkstyle/issues/13210) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. ❗ Opened issue [#1231](https://github.com/hcoles/pitest/issues/1231) in [hcoles/pitest](https://github.com/hcoles/pitest)
-3. 🔒 Closed issue [#31](https://github.com/networkop/k8s-networking-guide/issues/31) in [networkop/k8s-networking-guide](https://github.com/networkop/k8s-networking-guide)
-4. 🗣 Commented on [#31](https://github.com/networkop/k8s-networking-guide/issues/31) in [networkop/k8s-networking-guide](https://github.com/networkop/k8s-networking-guide)
-5. 🗣 Commented on [#13145](https://github.com/checkstyle/checkstyle/issues/13145) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#13210](https://github.com/checkstyle/checkstyle/issues/13210) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. ❗ Opened issue [#1231](https://github.com/hcoles/pitest/issues/1231) in [hcoles/pitest](https://github.com/hcoles/pitest)
+4. 🔒 Closed issue [#31](https://github.com/networkop/k8s-networking-guide/issues/31) in [networkop/k8s-networking-guide](https://github.com/networkop/k8s-networking-guide)
+5. 🗣 Commented on [#31](https://github.com/networkop/k8s-networking-guide/issues/31) in [networkop/k8s-networking-guide](https://github.com/networkop/k8s-networking-guide)
 <!--END_SECTION:activity-->
 
 ---
