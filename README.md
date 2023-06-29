@@ -33,11 +33,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118928](https://github.com/kubernetes/kubernetes/issues/118928) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-2. 🗣 Commented on [#118295](https://github.com/kubernetes/kubernetes/issues/118295) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. 🗣 Commented on [#13281](https://github.com/checkstyle/checkstyle/issues/13281) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#2276](https://github.com/kubernetes/sig-release/issues/2276) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-5. ❌ Closed PR [#2276](https://github.com/kubernetes/sig-release/pull/2276) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+1. ❗ Opened issue [#118964](https://github.com/kubernetes/kubernetes/issues/118964) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. ❗ Opened issue [#118963](https://github.com/kubernetes/kubernetes/issues/118963) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. 🗣 Commented on [#118928](https://github.com/kubernetes/kubernetes/issues/118928) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. 🗣 Commented on [#118295](https://github.com/kubernetes/kubernetes/issues/118295) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. 🗣 Commented on [#13281](https://github.com/checkstyle/checkstyle/issues/13281) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ---
