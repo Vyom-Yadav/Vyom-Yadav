@@ -7,11 +7,11 @@
 
 I am a senior Computer Science & Engineering student interested in Kubernetes and the Cloud Native ecosystem. Currently, I serve as a Google Summer of Code mentor for the [Checkstyle](https://github.com/checkstyle/checkstyle) organization, leading a project focused on reducing technical debt. I analyze algorithms, eliminate redundant code, and automate the code review process using code quality tools.
 
-Additionally, I actively contribute to the [Kubernetes Release Team](https://github.com/kubernetes/sig-release), monitoring CI jobs, identifying patterns and flakes, and providing developers with timely alerts. My experience also includes being a Google Summer of Code mentee for Checkstyle, where I improved code quality and reduced technical debt by implementing test suites and customized suppression scripts.
+Additionally, I actively contribute to the [Kubernetes Release Team](https://github.com/kubernetes/sig-release), monitoring CI jobs, identifying patterns and flakes, and providing developers with timely alerts. My experience also includes being a Google Summer of Code mentee for Checkstyle, where I improved code quality and reduced 100% technical debt indicated by the pit mutation testing system and other linters.
 
 Furthermore, I have worked as a Linux Foundation Mentee with the [Kyverno](https://github.com/kyverno/kyverno) organization, where I enhanced Kubernetes subresource support in Kyverno policies. I achieved this by configuring the dynamic client, introducing generic subresource support, and expanding non-cluster-dependent CLI capabilities. As a Linux Foundation Certified Kubernetes Administrator and Kubernetes Application Developer, I continue contributing to the Kubernetes ecosystem through various open-source and closed-source projects. 
 
-Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dynamic and static zero-trust Kubernetes Admission Controller policies. By leveraging KubeArmor's runtime visibility and developing a generic framework using 'common expression language,' I strengthened Kubernetes security in collaboration with other open-source CNCF projects, aligning with the principle of building Kubernetes outside Kubernetes.
+Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dynamic and static zero-trust Kubernetes Admission Controller policies generation by leveraging KubeArmor's runtime visibility and developing a generic framework using 'common expression language' and strengthened Kubernetes security in collaboration with other open-source CNCF projects, aligning with the principle of building Kubernetes outside Kubernetes.
 
 ### Skills (Current)
 
