@@ -52,5 +52,3 @@ Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dyna
 ### Spotify Playing 🎧
 
 [<img src="https://novatorem-git-master-vyom-yadav.vercel.app/api/spotify" alt="Vyom's Spotify Playing" width="350" />](https://open.spotify.com/user/312oauov5ttlvf6hg6yygyiz3m4m)
-
----
