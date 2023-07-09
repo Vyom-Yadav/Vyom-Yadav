@@ -26,7 +26,7 @@ Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dyna
 <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="cka" height="120"> &nbsp; &nbsp;
 <img src="https://images.credly.com/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="ckad" height="117"> &nbsp; &nbsp;
 
-### Track My Open Source Contribution 🚀: 
+### Track My Open Source Contributions 👨‍💻: 
  - [checkstyle/checkstyle (Non GSoC)](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3AVyom-Yadav+is%3Amerged+merged%3A%3C2022-05-20)
  - [checkstyle/checkstyle (GSoC)](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3AVyom-Yadav+is%3Amerged+merged%3A%3E2022-05-20+)
  - [kyverno/kyverno](https://github.com/kyverno/kyverno/pulls?q=is%3Apr+author%3AVyom-Yadav+is%3Amerged+)
