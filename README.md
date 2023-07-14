@@ -15,11 +15,11 @@ Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dyna
 
 ### Skills (Current)
 
-- **Language:** Java, Go and C++.
-- **DevOps:** Linux Administration, GitHub Actions & API, Shell Scripting, CI/CD, Docker, Kubernetes & Kubernetes Programming, Helm, Kyverno, KubeArmor, Kuttl.
-- **Cloud:** Digital Ocean
-- **Database:** MySQL, PostgreSQL.
-- **Tools:** Git, Checkstyle, Maven. 
+- **Languages**: Go, Java, Groovy, C++           
+- **Lib/Frameworks**: Kubernetes Client Go, Gin, Gorm, gRPC, Kuttl, Ginkgo, Junit, ArchUnit 
+- **Tools**: Kubernetes, Docker, Kyverno, KubeArmor, Istio, OPA, Code Linting Tools, Build Tools, GitHub Actions 
+- **Platforms**: Digital Ocean, Google Cloud Platform 
+- **Databases**: MySQL, PostgreSQL 
 
 ### Certifications
 
