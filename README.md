@@ -42,11 +42,11 @@ Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dyna
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2327](https://github.com/kubernetes/sig-release/issues/2327) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-2. 🗣 Commented on [#2307](https://github.com/kubernetes/sig-release/issues/2307#issuecomment-1687863913) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-3. 🗣 Commented on [#2307](https://github.com/kubernetes/sig-release/issues/2307#issuecomment-1687861284) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-4. 🗣 Commented on [#1017](https://github.com/loft-sh/vcluster/issues/1017#issuecomment-1678969990) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-5. 🗣 Commented on [#13375](https://github.com/checkstyle/checkstyle/pull/13375#issuecomment-1678923800) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. ❗ Opened issue [#4](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/4) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
+2. ❗ Opened issue [#2327](https://github.com/kubernetes/sig-release/issues/2327) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+3. 🗣 Commented on [#2307](https://github.com/kubernetes/sig-release/issues/2307#issuecomment-1687863913) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+4. 🗣 Commented on [#2307](https://github.com/kubernetes/sig-release/issues/2307#issuecomment-1687861284) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+5. 🗣 Commented on [#1017](https://github.com/loft-sh/vcluster/issues/1017#issuecomment-1678969990) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
