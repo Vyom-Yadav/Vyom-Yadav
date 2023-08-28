@@ -42,11 +42,11 @@ Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dyna
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/4) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
-2. 🗣 Commented on [#4](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/4#issuecomment-1694607650) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
-3. ❗ Opened issue [#4](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/4) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
-4. ❗ Opened issue [#2327](https://github.com/kubernetes/sig-release/issues/2327) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-5. 🗣 Commented on [#2307](https://github.com/kubernetes/sig-release/issues/2307#issuecomment-1687863913) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+1. 🗣 Commented on [#4](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/4#issuecomment-1694927022) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
+2. 🔒 Closed issue [#4](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/4) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
+3. 🗣 Commented on [#4](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/4#issuecomment-1694607650) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
+4. ❗ Opened issue [#4](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/4) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
+5. ❗ Opened issue [#2327](https://github.com/kubernetes/sig-release/issues/2327) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
