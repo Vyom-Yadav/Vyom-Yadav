@@ -42,11 +42,11 @@ Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dyna
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/5) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
-2. 🗣 Commented on [#4](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/4#issuecomment-1694927022) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
-3. 🔒 Closed issue [#4](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/4) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
-4. 🗣 Commented on [#4](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/4#issuecomment-1694607650) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
-5. ❗ Opened issue [#4](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/4) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
+1. ❗ Opened issue [#120367](https://github.com/kubernetes/kubernetes/issues/120367) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. ❗ Opened issue [#5](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/5) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
+3. 🗣 Commented on [#4](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/4#issuecomment-1694927022) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
+4. 🔒 Closed issue [#4](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/4) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
+5. 🗣 Commented on [#4](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/4#issuecomment-1694607650) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
