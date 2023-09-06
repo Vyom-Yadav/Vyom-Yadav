@@ -42,11 +42,11 @@ Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dyna
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13672](https://github.com/checkstyle/checkstyle/issues/13672#issuecomment-1707139173) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#11902](https://github.com/checkstyle/checkstyle/issues/11902#issuecomment-1707002351) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. ❗ Opened issue [#120367](https://github.com/kubernetes/kubernetes/issues/120367) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. ❗ Opened issue [#5](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/5) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
-5. 🗣 Commented on [#4](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/4#issuecomment-1694927022) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
+1. ❗ Opened issue [#120453](https://github.com/kubernetes/kubernetes/issues/120453) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. 🗣 Commented on [#13672](https://github.com/checkstyle/checkstyle/issues/13672#issuecomment-1707139173) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#11902](https://github.com/checkstyle/checkstyle/issues/11902#issuecomment-1707002351) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. ❗ Opened issue [#120367](https://github.com/kubernetes/kubernetes/issues/120367) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. ❗ Opened issue [#5](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/5) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
