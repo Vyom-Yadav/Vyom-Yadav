@@ -42,11 +42,11 @@ Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dyna
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118731](https://github.com/kubernetes/kubernetes/issues/118731#issuecomment-1710343943) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-2. 🗣 Commented on [#118964](https://github.com/kubernetes/kubernetes/issues/118964#issuecomment-1710343293) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. 🗣 Commented on [#118576](https://github.com/kubernetes/kubernetes/issues/118576#issuecomment-1710328778) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. ❗ Opened issue [#120500](https://github.com/kubernetes/kubernetes/issues/120500) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-5. ❗ Opened issue [#120481](https://github.com/kubernetes/kubernetes/issues/120481) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. ❗ Opened issue [#120538](https://github.com/kubernetes/kubernetes/issues/120538) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. ❗ Opened issue [#120537](https://github.com/kubernetes/kubernetes/issues/120537) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. 🗣 Commented on [#118731](https://github.com/kubernetes/kubernetes/issues/118731#issuecomment-1712424710) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. ❗ Opened issue [#476](https://github.com/openshift/cluster-api-provider-aws/issues/476) in [openshift/cluster-api-provider-aws](https://github.com/openshift/cluster-api-provider-aws)
+5. 🗣 Commented on [#118731](https://github.com/kubernetes/kubernetes/issues/118731#issuecomment-1712424504) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
