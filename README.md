@@ -42,11 +42,11 @@ Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dyna
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/6#issuecomment-1733370258) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
-2. ❗ Opened issue [#6](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/6) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
-3. 💪 Opened PR [#13766](https://github.com/checkstyle/checkstyle/pull/13766) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#120481](https://github.com/kubernetes/kubernetes/issues/120481#issuecomment-1718897524) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-5. 🗣 Commented on [#13492](https://github.com/checkstyle/checkstyle/pull/13492#issuecomment-1718779911) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#120481](https://github.com/kubernetes/kubernetes/issues/120481#issuecomment-1734836875) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. 🗣 Commented on [#120481](https://github.com/kubernetes/kubernetes/issues/120481#issuecomment-1734836439) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. 🗣 Commented on [#120886](https://github.com/kubernetes/kubernetes/issues/120886#issuecomment-1734824590) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. 🗣 Commented on [#120886](https://github.com/kubernetes/kubernetes/issues/120886#issuecomment-1734824343) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. 🗣 Commented on [#6](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/6#issuecomment-1733370258) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
