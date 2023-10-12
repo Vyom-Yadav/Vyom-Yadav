@@ -32,6 +32,7 @@ Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dyna
  - [kyverno/kyverno](https://github.com/kyverno/kyverno/pulls?q=is%3Apr+author%3AVyom-Yadav+is%3Amerged+)
  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes/issues?q=is%3Aissue+author%3AVyom-Yadav)
  - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client/pulls?q=is%3Amerged+is%3Apr+author%3AVyom-Yadav+)
+ - [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine/pulls?q=is%3Amerged+is%3Apr+author%3AVyom-Yadav+)
 
 ### Technical Writing Profiles 📃
  - [Hashnode](https://while-vyom-is-coding.hashnode.dev/)
