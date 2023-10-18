@@ -43,11 +43,11 @@ Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dyna
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121170](https://github.com/kubernetes/kubernetes/pull/121170#issuecomment-1758910117) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-2. 🗣 Commented on [#121169](https://github.com/kubernetes/kubernetes/issues/121169#issuecomment-1758855814) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. ❗ Opened issue [#121169](https://github.com/kubernetes/kubernetes/issues/121169) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. 🗣 Commented on [#2352](https://github.com/kubernetes/sig-release/pull/2352#issuecomment-1753075311) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-5. 💪 Opened PR [#2352](https://github.com/kubernetes/sig-release/pull/2352) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+1. 🗣 Commented on [#121320](https://github.com/kubernetes/kubernetes/issues/121320#issuecomment-1768303130) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. ❗ Opened issue [#121320](https://github.com/kubernetes/kubernetes/issues/121320) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. 🗣 Commented on [#118731](https://github.com/kubernetes/kubernetes/issues/118731#issuecomment-1768247320) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. 🗣 Commented on [#121170](https://github.com/kubernetes/kubernetes/pull/121170#issuecomment-1758910117) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. 🗣 Commented on [#121169](https://github.com/kubernetes/kubernetes/issues/121169#issuecomment-1758855814) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
