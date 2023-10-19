@@ -43,11 +43,11 @@ Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dyna
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#120731](https://github.com/kubernetes/kubernetes/pull/120731#issuecomment-1768908647) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-2. 🗣 Commented on [#118731](https://github.com/kubernetes/kubernetes/issues/118731#issuecomment-1768899171) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. 🗣 Commented on [#121320](https://github.com/kubernetes/kubernetes/issues/121320#issuecomment-1768364273) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. 🗣 Commented on [#121320](https://github.com/kubernetes/kubernetes/issues/121320#issuecomment-1768303130) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-5. ❗ Opened issue [#121320](https://github.com/kubernetes/kubernetes/issues/121320) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. ❗ Opened issue [#121344](https://github.com/kubernetes/kubernetes/issues/121344) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. 🗣 Commented on [#120731](https://github.com/kubernetes/kubernetes/pull/120731#issuecomment-1768908647) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. 🗣 Commented on [#118731](https://github.com/kubernetes/kubernetes/issues/118731#issuecomment-1768899171) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. 🗣 Commented on [#121320](https://github.com/kubernetes/kubernetes/issues/121320#issuecomment-1768364273) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. 🗣 Commented on [#121320](https://github.com/kubernetes/kubernetes/issues/121320#issuecomment-1768303130) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
