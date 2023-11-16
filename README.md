@@ -43,11 +43,11 @@ Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dyna
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4517](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4517#issuecomment-1813036260) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#120481](https://github.com/kubernetes/kubernetes/issues/120481#issuecomment-1813019135) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. ❗ Opened issue [#121911](https://github.com/kubernetes/kubernetes/issues/121911) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. 🗣 Commented on [#120855](https://github.com/kubernetes/kubernetes/issues/120855#issuecomment-1810365864) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-5. 🗣 Commented on [#120855](https://github.com/kubernetes/kubernetes/issues/120855#issuecomment-1810024835) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. 🗣 Commented on [#121865](https://github.com/kubernetes/kubernetes/issues/121865#issuecomment-1814421915) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. 🗣 Commented on [#4517](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4517#issuecomment-1813036260) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#120481](https://github.com/kubernetes/kubernetes/issues/120481#issuecomment-1813019135) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. ❗ Opened issue [#121911](https://github.com/kubernetes/kubernetes/issues/121911) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. 🗣 Commented on [#120855](https://github.com/kubernetes/kubernetes/issues/120855#issuecomment-1810365864) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
