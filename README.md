@@ -43,11 +43,11 @@ Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dyna
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#120481](https://github.com/kubernetes/kubernetes/issues/120481#issuecomment-1818974735) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-2. 🗣 Commented on [#11214](https://github.com/checkstyle/checkstyle/issues/11214#issuecomment-1816883461) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#14009](https://github.com/checkstyle/checkstyle/pull/14009#issuecomment-1816874241) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#14009](https://github.com/checkstyle/checkstyle/pull/14009#issuecomment-1816870933) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#121926](https://github.com/kubernetes/kubernetes/issues/121926#issuecomment-1816585122) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. 🗣 Commented on [#2352](https://github.com/kubernetes/sig-release/pull/2352#issuecomment-1819031770) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+2. 🗣 Commented on [#120481](https://github.com/kubernetes/kubernetes/issues/120481#issuecomment-1818974735) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. 🗣 Commented on [#11214](https://github.com/checkstyle/checkstyle/issues/11214#issuecomment-1816883461) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#14009](https://github.com/checkstyle/checkstyle/pull/14009#issuecomment-1816874241) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 🗣 Commented on [#14009](https://github.com/checkstyle/checkstyle/pull/14009#issuecomment-1816870933) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
