@@ -43,11 +43,11 @@ Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dyna
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1826](https://github.com/stacklok/minder/issues/1826#issuecomment-1870175542) in [stacklok/minder](https://github.com/stacklok/minder)
-2. ❗ Opened issue [#7](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/7) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
-3. 🗣 Commented on [#1920](https://github.com/stacklok/minder/issues/1920#issuecomment-1868556161) in [stacklok/minder](https://github.com/stacklok/minder)
-4. 🗣 Commented on [#122284](https://github.com/kubernetes/kubernetes/issues/122284#issuecomment-1853207522) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-5. 🗣 Commented on [#14092](https://github.com/checkstyle/checkstyle/issues/14092#issuecomment-1838977908) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. ❗ Opened issue [#2040](https://github.com/stacklok/minder/issues/2040) in [stacklok/minder](https://github.com/stacklok/minder)
+2. 🗣 Commented on [#1826](https://github.com/stacklok/minder/issues/1826#issuecomment-1870175542) in [stacklok/minder](https://github.com/stacklok/minder)
+3. ❗ Opened issue [#7](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/7) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
+4. 🗣 Commented on [#1920](https://github.com/stacklok/minder/issues/1920#issuecomment-1868556161) in [stacklok/minder](https://github.com/stacklok/minder)
+5. 🗣 Commented on [#122284](https://github.com/kubernetes/kubernetes/issues/122284#issuecomment-1853207522) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
