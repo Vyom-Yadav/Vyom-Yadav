@@ -43,11 +43,11 @@ Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dyna
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2040](https://github.com/stacklok/minder/issues/2040#issuecomment-1870515962) in [stacklok/minder](https://github.com/stacklok/minder)
-2. 🗣 Commented on [#2040](https://github.com/stacklok/minder/issues/2040#issuecomment-1870388491) in [stacklok/minder](https://github.com/stacklok/minder)
-3. ❗ Opened issue [#2040](https://github.com/stacklok/minder/issues/2040) in [stacklok/minder](https://github.com/stacklok/minder)
-4. 🗣 Commented on [#1826](https://github.com/stacklok/minder/issues/1826#issuecomment-1870175542) in [stacklok/minder](https://github.com/stacklok/minder)
-5. ❗ Opened issue [#7](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3/issues/7) in [SkienaBook/Algorithm-Design-Manual-Programs-V3](https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3)
+1. 🗣 Commented on [#2040](https://github.com/stacklok/minder/issues/2040#issuecomment-1870559623) in [stacklok/minder](https://github.com/stacklok/minder)
+2. 🗣 Commented on [#2040](https://github.com/stacklok/minder/issues/2040#issuecomment-1870538834) in [stacklok/minder](https://github.com/stacklok/minder)
+3. 🗣 Commented on [#2040](https://github.com/stacklok/minder/issues/2040#issuecomment-1870515962) in [stacklok/minder](https://github.com/stacklok/minder)
+4. 🗣 Commented on [#2040](https://github.com/stacklok/minder/issues/2040#issuecomment-1870388491) in [stacklok/minder](https://github.com/stacklok/minder)
+5. ❗ Opened issue [#2040](https://github.com/stacklok/minder/issues/2040) in [stacklok/minder](https://github.com/stacklok/minder)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
