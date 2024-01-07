@@ -43,11 +43,11 @@ Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dyna
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#825](https://github.com/go-yaml/yaml/issues/825#issuecomment-1879657394) in [go-yaml/yaml](https://github.com/go-yaml/yaml)
-2. 🗣 Commented on [#14136](https://github.com/checkstyle/checkstyle/pull/14136#issuecomment-1878959149) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#2067](https://github.com/stacklok/minder/issues/2067#issuecomment-1877102081) in [stacklok/minder](https://github.com/stacklok/minder)
-4. 🗣 Commented on [#2067](https://github.com/stacklok/minder/issues/2067#issuecomment-1876942424) in [stacklok/minder](https://github.com/stacklok/minder)
-5. 🗣 Commented on [#14137](https://github.com/checkstyle/checkstyle/issues/14137#issuecomment-1874907991) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 💪 Opened PR [#2075](https://github.com/stacklok/minder/pull/2075) in [stacklok/minder](https://github.com/stacklok/minder)
+2. 🗣 Commented on [#825](https://github.com/go-yaml/yaml/issues/825#issuecomment-1879657394) in [go-yaml/yaml](https://github.com/go-yaml/yaml)
+3. 🗣 Commented on [#14136](https://github.com/checkstyle/checkstyle/pull/14136#issuecomment-1878959149) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#2067](https://github.com/stacklok/minder/issues/2067#issuecomment-1877102081) in [stacklok/minder](https://github.com/stacklok/minder)
+5. 🗣 Commented on [#2067](https://github.com/stacklok/minder/issues/2067#issuecomment-1876942424) in [stacklok/minder](https://github.com/stacklok/minder)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
