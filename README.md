@@ -43,11 +43,11 @@ Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dyna
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1609](https://github.com/stacklok/minder/issues/1609#issuecomment-1890602542) in [stacklok/minder](https://github.com/stacklok/minder)
-2. 🗣 Commented on [#1609](https://github.com/stacklok/minder/issues/1609#issuecomment-1888427991) in [stacklok/minder](https://github.com/stacklok/minder)
-3. 🗣 Commented on [#1609](https://github.com/stacklok/minder/issues/1609#issuecomment-1886758874) in [stacklok/minder](https://github.com/stacklok/minder)
-4. 🗣 Commented on [#2109](https://github.com/stacklok/minder/pull/2109#issuecomment-1886521858) in [stacklok/minder](https://github.com/stacklok/minder)
-5. 💪 Opened PR [#2109](https://github.com/stacklok/minder/pull/2109) in [stacklok/minder](https://github.com/stacklok/minder)
+1. 🗣 Commented on [#1609](https://github.com/stacklok/minder/issues/1609#issuecomment-1892688609) in [stacklok/minder](https://github.com/stacklok/minder)
+2. 💪 Opened PR [#2125](https://github.com/stacklok/minder/pull/2125) in [stacklok/minder](https://github.com/stacklok/minder)
+3. 🗣 Commented on [#1609](https://github.com/stacklok/minder/issues/1609#issuecomment-1890602542) in [stacklok/minder](https://github.com/stacklok/minder)
+4. 🗣 Commented on [#1609](https://github.com/stacklok/minder/issues/1609#issuecomment-1888427991) in [stacklok/minder](https://github.com/stacklok/minder)
+5. 🗣 Commented on [#1609](https://github.com/stacklok/minder/issues/1609#issuecomment-1886758874) in [stacklok/minder](https://github.com/stacklok/minder)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
