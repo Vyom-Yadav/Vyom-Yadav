@@ -5,21 +5,9 @@
 
 ### About Me 🚀
 
-I am a senior Computer Science & Engineering student interested in Kubernetes and the Cloud Native ecosystem. Currently, I serve as a Google Summer of Code mentor for the [Checkstyle](https://github.com/checkstyle/checkstyle) organization, leading a project focused on reducing technical debt. I analyze algorithms, eliminate redundant code, and automate the code review process using code quality tools.
+Just good vibes
 
-Additionally, I actively contribute to the [Kubernetes Release Team](https://github.com/kubernetes/sig-release), monitoring CI jobs, identifying patterns and flakes, and providing developers with timely alerts. My experience also includes being a Google Summer of Code mentee for Checkstyle, where I improved code quality and reduced 100% technical debt indicated by the pit mutation testing system and other linters.
-
-Furthermore, I have worked as a Linux Foundation Mentee with the [Kyverno](https://github.com/kyverno/kyverno) organization, where I enhanced Kubernetes subresource support in Kyverno policies. I achieved this by configuring the dynamic client, introducing generic subresource support, and expanding non-cluster-dependent CLI capabilities. As a Linux Foundation Certified Kubernetes Administrator and Kubernetes Application Developer, I continue contributing to the Kubernetes ecosystem through various open-source and closed-source projects. 
-
-Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dynamic and static zero-trust Kubernetes Admission Controller policies generation by leveraging KubeArmor's runtime visibility and developing a generic framework using 'common expression language' and strengthened Kubernetes security in collaboration with other open-source CNCF projects, aligning with the principle of building Kubernetes outside Kubernetes.
-
-### Skills (Current)
-
-- **Languages**: Go, Java, Groovy, C++           
-- **Lib/Frameworks**: Kubernetes Client Go, Gin, Gorm, gRPC, Kuttl, Ginkgo, Junit, ArchUnit 
-- **Tools**: Kubernetes, Docker, Kyverno, KubeArmor, Istio, OPA, Code Linting Tools, Build Tools, GitHub Actions 
-- **Platforms**: Digital Ocean, Google Cloud Platform 
-- **Databases**: MySQL, PostgreSQL 
+<img src="https://media1.tenor.com/m/jDLCMJDVK8UAAAAC/nikoomilana-betasquadgifs.gif" alt="niko"> &nbsp; &nbsp;
 
 ### Certifications
 
@@ -30,6 +18,7 @@ Previously, I interned at [AccuKnox](http://www.accuknox.com/), focusing on dyna
  - [checkstyle/checkstyle (Non GSoC)](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3AVyom-Yadav+is%3Amerged+merged%3A%3C2022-05-20)
  - [checkstyle/checkstyle (GSoC)](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3AVyom-Yadav+is%3Amerged+merged%3A%3E2022-05-20+)
  - [kyverno/kyverno](https://github.com/kyverno/kyverno/pulls?q=is%3Apr+author%3AVyom-Yadav+is%3Amerged+)
+ - [stacklok/minder](https://github.com/stacklok/minder/commits?author=Vyom-Yadav)
  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes/issues?q=is%3Aissue+author%3AVyom-Yadav)
  - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client/pulls?q=is%3Amerged+is%3Apr+author%3AVyom-Yadav+)
  - [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine/pulls?q=is%3Amerged+is%3Apr+author%3AVyom-Yadav+)
