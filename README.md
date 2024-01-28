@@ -3,9 +3,7 @@
 ![counter](https://enpd32rp4uhhkkc.m.pipedream.net)
 <a href="https://wakatime.com/@939457b0-41b0-4830-8244-95c652fadddb"><img src="https://wakatime.com/badge/user/939457b0-41b0-4830-8244-95c652fadddb.svg" alt="Total time coded since Jan 12 2022" /></a>
 
-### About Me 🚀
-
-Just good vibes
+### For vibes 🕶️
 
 <img src="https://media1.tenor.com/m/jDLCMJDVK8UAAAAC/nikoomilana-betasquadgifs.gif" alt="niko"> &nbsp; &nbsp;
 
@@ -15,10 +13,9 @@ Just good vibes
 <img src="https://images.credly.com/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="ckad" height="117"> &nbsp; &nbsp;
 
 ### Track My Open Source Contributions 👨‍💻: 
- - [checkstyle/checkstyle (Non GSoC)](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3AVyom-Yadav+is%3Amerged+merged%3A%3C2022-05-20)
- - [checkstyle/checkstyle (GSoC)](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3AVyom-Yadav+is%3Amerged+merged%3A%3E2022-05-20+)
+ - [checkstyle/checkstyle (~200)](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3AVyom-Yadav+is%3Amerged+)
  - [kyverno/kyverno](https://github.com/kyverno/kyverno/pulls?q=is%3Apr+author%3AVyom-Yadav+is%3Amerged+)
- - [stacklok/minder](https://github.com/stacklok/minder/commits?author=Vyom-Yadav)
+ - [stacklok/minder](https://github.com/stacklok/minder/pulls?q=is%3Apr+author%3AVyom-Yadav+is%3Amerged+)
  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes/issues?q=is%3Aissue+author%3AVyom-Yadav)
  - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client/pulls?q=is%3Amerged+is%3Apr+author%3AVyom-Yadav+)
  - [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine/pulls?q=is%3Amerged+is%3Apr+author%3AVyom-Yadav+)
