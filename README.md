@@ -11,7 +11,7 @@ I'm looking for New Grad roles starting June 2024 ✨
 
 ```
 ^ Working in the Kubernetes Release Team (1.29 CI Signal Lead), 1.30 Docs Shadow
-^ Prev @AccuKnox. Worked on dynamic admission controller policies, created resource validation library
+^ Prev @AccuKnox. Worked on dynamic admission controller policies, created a plug-in k8s resource validation library
 ^ LFX'22 @Kyverno. Added support for all subresources (eg: k8s '/status' thingy)
 ^ GSoC'22 @checkstyle, GSoC'23 Mentor. Checkstyle is the home base. See my contributions below
 ```
