@@ -38,11 +38,11 @@ I'm looking for New Grad roles starting June 2024 ✨
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2344](https://github.com/stacklok/minder/pull/2344#issuecomment-1944183689) in [stacklok/minder](https://github.com/stacklok/minder)
-2. 🗣 Commented on [#2271](https://github.com/stacklok/minder/pull/2271#issuecomment-1943621206) in [stacklok/minder](https://github.com/stacklok/minder)
-3. 🗣 Commented on [#2344](https://github.com/stacklok/minder/pull/2344#issuecomment-1943021999) in [stacklok/minder](https://github.com/stacklok/minder)
-4. 🗣 Commented on [#2271](https://github.com/stacklok/minder/pull/2271#issuecomment-1935691857) in [stacklok/minder](https://github.com/stacklok/minder)
-5. 🗣 Commented on [#2271](https://github.com/stacklok/minder/pull/2271#issuecomment-1935330728) in [stacklok/minder](https://github.com/stacklok/minder)
+1. 🗣 Commented on [#4265](https://github.com/kubernetes/enhancements/issues/4265#issuecomment-1946431000) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+2. 🗣 Commented on [#3838](https://github.com/kubernetes/enhancements/issues/3838#issuecomment-1946409599) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+3. 🗣 Commented on [#3521](https://github.com/kubernetes/enhancements/issues/3521#issuecomment-1946391293) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+4. 🗣 Commented on [#3895](https://github.com/kubernetes/enhancements/issues/3895#issuecomment-1946385335) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+5. 🗣 Commented on [#1441](https://github.com/kubernetes/enhancements/issues/1441#issuecomment-1946378735) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
