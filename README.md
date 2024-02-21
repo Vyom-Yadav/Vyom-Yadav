@@ -38,11 +38,11 @@ I'm looking for New Grad roles starting June 2024 ✨
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2385](https://github.com/stacklok/minder/pull/2385#issuecomment-1954337352) in [stacklok/minder](https://github.com/stacklok/minder)
-2. 🗣 Commented on [#2385](https://github.com/stacklok/minder/pull/2385#issuecomment-1954305960) in [stacklok/minder](https://github.com/stacklok/minder)
-3. 🗣 Commented on [#2385](https://github.com/stacklok/minder/pull/2385#issuecomment-1954279002) in [stacklok/minder](https://github.com/stacklok/minder)
-4. 💪 Opened PR [#2385](https://github.com/stacklok/minder/pull/2385) in [stacklok/minder](https://github.com/stacklok/minder)
-5. 🗣 Commented on [#4528](https://github.com/kubernetes/enhancements/pull/4528#issuecomment-1954233856) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+1. 💪 Opened PR [#2394](https://github.com/stacklok/minder/pull/2394) in [stacklok/minder](https://github.com/stacklok/minder)
+2. 🗣 Commented on [#2385](https://github.com/stacklok/minder/pull/2385#issuecomment-1954337352) in [stacklok/minder](https://github.com/stacklok/minder)
+3. 🗣 Commented on [#2385](https://github.com/stacklok/minder/pull/2385#issuecomment-1954305960) in [stacklok/minder](https://github.com/stacklok/minder)
+4. 🗣 Commented on [#2385](https://github.com/stacklok/minder/pull/2385#issuecomment-1954279002) in [stacklok/minder](https://github.com/stacklok/minder)
+5. 💪 Opened PR [#2385](https://github.com/stacklok/minder/pull/2385) in [stacklok/minder](https://github.com/stacklok/minder)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
