@@ -38,11 +38,11 @@ I'm looking for New Grad roles starting June 2024 ✨
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2416](https://github.com/stacklok/minder/pull/2416) in [stacklok/minder](https://github.com/stacklok/minder)
-2. 🗣 Commented on [#32051](https://github.com/kubernetes/test-infra/issues/32051#issuecomment-1957283935) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-3. 🗣 Commented on [#32051](https://github.com/kubernetes/test-infra/issues/32051#issuecomment-1957243710) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-4. ❗ Opened issue [#32051](https://github.com/kubernetes/test-infra/issues/32051) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-5. 💪 Opened PR [#2394](https://github.com/stacklok/minder/pull/2394) in [stacklok/minder](https://github.com/stacklok/minder)
+1. 🗣 Commented on [#2440](https://github.com/kubernetes/sig-release/pull/2440#issuecomment-1963749463) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+2. 🗣 Commented on [#2440](https://github.com/kubernetes/sig-release/pull/2440#issuecomment-1963743563) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+3. 💪 Opened PR [#2440](https://github.com/kubernetes/sig-release/pull/2440) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+4. 💪 Opened PR [#2416](https://github.com/stacklok/minder/pull/2416) in [stacklok/minder](https://github.com/stacklok/minder)
+5. 🗣 Commented on [#32051](https://github.com/kubernetes/test-infra/issues/32051#issuecomment-1957283935) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
