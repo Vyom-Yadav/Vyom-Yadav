@@ -38,11 +38,11 @@ I'm looking for New Grad roles starting June 2024 ✨
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2475](https://github.com/stacklok/minder/pull/2475#issuecomment-1975296130) in [stacklok/minder](https://github.com/stacklok/minder)
-2. 🗣 Commented on [#2475](https://github.com/stacklok/minder/pull/2475#issuecomment-1974885261) in [stacklok/minder](https://github.com/stacklok/minder)
-3. 💪 Opened PR [#2475](https://github.com/stacklok/minder/pull/2475) in [stacklok/minder](https://github.com/stacklok/minder)
-4. ❌ Closed PR [#11231](https://github.com/checkstyle/checkstyle/pull/11231) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#14435](https://github.com/checkstyle/checkstyle/issues/14435#issuecomment-1972487304) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#2475](https://github.com/stacklok/minder/pull/2475#issuecomment-1976326068) in [stacklok/minder](https://github.com/stacklok/minder)
+2. 🗣 Commented on [#2475](https://github.com/stacklok/minder/pull/2475#issuecomment-1975296130) in [stacklok/minder](https://github.com/stacklok/minder)
+3. 🗣 Commented on [#2475](https://github.com/stacklok/minder/pull/2475#issuecomment-1974885261) in [stacklok/minder](https://github.com/stacklok/minder)
+4. 💪 Opened PR [#2475](https://github.com/stacklok/minder/pull/2475) in [stacklok/minder](https://github.com/stacklok/minder)
+5. ❌ Closed PR [#11231](https://github.com/checkstyle/checkstyle/pull/11231) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
