@@ -38,11 +38,11 @@ I'm looking for New Grad roles starting June 2024 ✨
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Not-Vyom/the-weakest-link/pull/1) in [Not-Vyom/the-weakest-link](https://github.com/Not-Vyom/the-weakest-link)
-2. 💪 Opened PR [#1](https://github.com/Not-Vyom/the-weakest-link/pull/1) in [Not-Vyom/the-weakest-link](https://github.com/Not-Vyom/the-weakest-link)
-3. 🗣 Commented on [#2490](https://github.com/stacklok/minder/pull/2490#issuecomment-1983592779) in [stacklok/minder](https://github.com/stacklok/minder)
-4. 🗣 Commented on [#2538](https://github.com/stacklok/minder/pull/2538#issuecomment-1983222370) in [stacklok/minder](https://github.com/stacklok/minder)
-5. 💪 Opened PR [#2538](https://github.com/stacklok/minder/pull/2538) in [stacklok/minder](https://github.com/stacklok/minder)
+1. 🎉 Merged PR [#2](https://github.com/Not-Vyom/the-weakest-link/pull/2) in [Not-Vyom/the-weakest-link](https://github.com/Not-Vyom/the-weakest-link)
+2. 💪 Opened PR [#2](https://github.com/Not-Vyom/the-weakest-link/pull/2) in [Not-Vyom/the-weakest-link](https://github.com/Not-Vyom/the-weakest-link)
+3. 🎉 Merged PR [#1](https://github.com/Not-Vyom/the-weakest-link/pull/1) in [Not-Vyom/the-weakest-link](https://github.com/Not-Vyom/the-weakest-link)
+4. 💪 Opened PR [#1](https://github.com/Not-Vyom/the-weakest-link/pull/1) in [Not-Vyom/the-weakest-link](https://github.com/Not-Vyom/the-weakest-link)
+5. 🗣 Commented on [#2490](https://github.com/stacklok/minder/pull/2490#issuecomment-1983592779) in [stacklok/minder](https://github.com/stacklok/minder)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
