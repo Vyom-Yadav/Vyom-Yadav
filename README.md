@@ -38,11 +38,11 @@ I'm looking for New Grad roles starting June 2024 ✨
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Not-Vyom/the-weakest-link/pull/2) in [Not-Vyom/the-weakest-link](https://github.com/Not-Vyom/the-weakest-link)
-2. 💪 Opened PR [#2](https://github.com/Not-Vyom/the-weakest-link/pull/2) in [Not-Vyom/the-weakest-link](https://github.com/Not-Vyom/the-weakest-link)
-3. 🎉 Merged PR [#1](https://github.com/Not-Vyom/the-weakest-link/pull/1) in [Not-Vyom/the-weakest-link](https://github.com/Not-Vyom/the-weakest-link)
-4. 💪 Opened PR [#1](https://github.com/Not-Vyom/the-weakest-link/pull/1) in [Not-Vyom/the-weakest-link](https://github.com/Not-Vyom/the-weakest-link)
-5. 🗣 Commented on [#2490](https://github.com/stacklok/minder/pull/2490#issuecomment-1983592779) in [stacklok/minder](https://github.com/stacklok/minder)
+1. 🗣 Commented on [#4438](https://github.com/kubernetes/enhancements/issues/4438#issuecomment-1987845697) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+2. 🗣 Commented on [#121197](https://github.com/kubernetes/kubernetes/issues/121197#issuecomment-1987802977) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. 🗣 Commented on [#114984](https://github.com/kubernetes/kubernetes/issues/114984#issuecomment-1987801589) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. 🗣 Commented on [#116562](https://github.com/kubernetes/kubernetes/issues/116562#issuecomment-1987800254) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. 🗣 Commented on [#93699](https://github.com/kubernetes/kubernetes/issues/93699#issuecomment-1987799571) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
