@@ -38,11 +38,11 @@ I'm looking for New Grad roles starting June 2024 ✨
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2475](https://github.com/stacklok/minder/pull/2475#issuecomment-1995674403) in [stacklok/minder](https://github.com/stacklok/minder)
-2. ❌ Closed PR [#2475](https://github.com/stacklok/minder/pull/2475) in [stacklok/minder](https://github.com/stacklok/minder)
-3. 💪 Opened PR [#2638](https://github.com/stacklok/minder/pull/2638) in [stacklok/minder](https://github.com/stacklok/minder)
-4. 💪 Opened PR [#2633](https://github.com/stacklok/minder/pull/2633) in [stacklok/minder](https://github.com/stacklok/minder)
-5. 🗣 Commented on [#2505](https://github.com/stacklok/minder/pull/2505#issuecomment-1994534795) in [stacklok/minder](https://github.com/stacklok/minder)
+1. 🗣 Commented on [#123921](https://github.com/kubernetes/kubernetes/issues/123921#issuecomment-1999457622) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. 🗣 Commented on [#45559](https://github.com/kubernetes/website/pull/45559#issuecomment-1999454046) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#45559](https://github.com/kubernetes/website/pull/45559#issuecomment-1999450489) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 💪 Opened PR [#45559](https://github.com/kubernetes/website/pull/45559) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#2475](https://github.com/stacklok/minder/pull/2475#issuecomment-1995674403) in [stacklok/minder](https://github.com/stacklok/minder)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
