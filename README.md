@@ -38,11 +38,11 @@ I'm looking for New Grad roles starting June 2024 ✨
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1399](https://github.com/cilium/ebpf/pull/1399#issuecomment-2022363813) in [cilium/ebpf](https://github.com/cilium/ebpf)
-2. 💪 Opened PR [#2807](https://github.com/stacklok/minder/pull/2807) in [stacklok/minder](https://github.com/stacklok/minder)
-3. 🗣 Commented on [#1399](https://github.com/cilium/ebpf/pull/1399#issuecomment-2021275655) in [cilium/ebpf](https://github.com/cilium/ebpf)
-4. 🗣 Commented on [#1399](https://github.com/cilium/ebpf/pull/1399#issuecomment-2021227088) in [cilium/ebpf](https://github.com/cilium/ebpf)
-5. 💪 Opened PR [#1399](https://github.com/cilium/ebpf/pull/1399) in [cilium/ebpf](https://github.com/cilium/ebpf)
+1. 🗣 Commented on [#2822](https://github.com/stacklok/minder/pull/2822#issuecomment-2023790575) in [stacklok/minder](https://github.com/stacklok/minder)
+2. 🗣 Commented on [#1399](https://github.com/cilium/ebpf/pull/1399#issuecomment-2022363813) in [cilium/ebpf](https://github.com/cilium/ebpf)
+3. 💪 Opened PR [#2807](https://github.com/stacklok/minder/pull/2807) in [stacklok/minder](https://github.com/stacklok/minder)
+4. 🗣 Commented on [#1399](https://github.com/cilium/ebpf/pull/1399#issuecomment-2021275655) in [cilium/ebpf](https://github.com/cilium/ebpf)
+5. 🗣 Commented on [#1399](https://github.com/cilium/ebpf/pull/1399#issuecomment-2021227088) in [cilium/ebpf](https://github.com/cilium/ebpf)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
