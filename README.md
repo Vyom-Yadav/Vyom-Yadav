@@ -38,11 +38,11 @@ I'm looking for New Grad roles starting June 2024 ✨
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13543](https://github.com/checkstyle/checkstyle/pull/13543#issuecomment-2102685129) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#124748](https://github.com/kubernetes/kubernetes/issues/124748#issuecomment-2100298658) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. ❗ Opened issue [#124748](https://github.com/kubernetes/kubernetes/issues/124748) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. 🗣 Commented on [#32051](https://github.com/kubernetes/test-infra/issues/32051#issuecomment-2082406274) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-5. 🗣 Commented on [#13543](https://github.com/checkstyle/checkstyle/pull/13543#issuecomment-2082121064) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#2493](https://github.com/kubernetes/sig-release/issues/2493#issuecomment-2107354065) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+2. 💪 Opened PR [#32604](https://github.com/kubernetes/test-infra/pull/32604) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+3. 🗣 Commented on [#13543](https://github.com/checkstyle/checkstyle/pull/13543#issuecomment-2102685129) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#124748](https://github.com/kubernetes/kubernetes/issues/124748#issuecomment-2100298658) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. ❗ Opened issue [#124748](https://github.com/kubernetes/kubernetes/issues/124748) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
