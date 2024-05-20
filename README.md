@@ -38,11 +38,11 @@ I'm looking for New Grad roles starting June 2024 ✨
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124951](https://github.com/kubernetes/kubernetes/issues/124951#issuecomment-2119239581) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-2. ❗ Opened issue [#124951](https://github.com/kubernetes/kubernetes/issues/124951) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. 🗣 Commented on [#124950](https://github.com/kubernetes/kubernetes/issues/124950#issuecomment-2119236994) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. ❗ Opened issue [#124950](https://github.com/kubernetes/kubernetes/issues/124950) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-5. 🗣 Commented on [#2493](https://github.com/kubernetes/sig-release/issues/2493#issuecomment-2107354065) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+1. 🗣 Commented on [#124748](https://github.com/kubernetes/kubernetes/issues/124748#issuecomment-2120052339) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. 🗣 Commented on [#124951](https://github.com/kubernetes/kubernetes/issues/124951#issuecomment-2119239581) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. ❗ Opened issue [#124951](https://github.com/kubernetes/kubernetes/issues/124951) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. 🗣 Commented on [#124950](https://github.com/kubernetes/kubernetes/issues/124950#issuecomment-2119236994) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. ❗ Opened issue [#124950](https://github.com/kubernetes/kubernetes/issues/124950) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
