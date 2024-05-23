@@ -38,11 +38,11 @@ I'm looking for New Grad roles starting June 2024 ✨
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#125030](https://github.com/kubernetes/kubernetes/issues/125030#issuecomment-2124622234) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-2. 🗣 Commented on [#2509](https://github.com/kubernetes/sig-release/pull/2509#issuecomment-2124620293) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-3. 💪 Opened PR [#2509](https://github.com/kubernetes/sig-release/pull/2509) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-4. 🗣 Commented on [#125030](https://github.com/kubernetes/kubernetes/issues/125030#issuecomment-2122980073) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-5. ❗ Opened issue [#125030](https://github.com/kubernetes/kubernetes/issues/125030) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. 💪 Opened PR [#3413](https://github.com/stacklok/minder/pull/3413) in [stacklok/minder](https://github.com/stacklok/minder)
+2. 🗣 Commented on [#125030](https://github.com/kubernetes/kubernetes/issues/125030#issuecomment-2124622234) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. 🗣 Commented on [#2509](https://github.com/kubernetes/sig-release/pull/2509#issuecomment-2124620293) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+4. 💪 Opened PR [#2509](https://github.com/kubernetes/sig-release/pull/2509) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+5. 🗣 Commented on [#125030](https://github.com/kubernetes/kubernetes/issues/125030#issuecomment-2122980073) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
