@@ -38,11 +38,11 @@ I'm looking for New Grad roles starting June 2024 ✨
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#125223](https://github.com/kubernetes/kubernetes/issues/125223) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-2. 🗣 Commented on [#3413](https://github.com/stacklok/minder/pull/3413#issuecomment-2139054893) in [stacklok/minder](https://github.com/stacklok/minder)
-3. 💪 Opened PR [#4989](https://github.com/kubernetes/org/pull/4989) in [kubernetes/org](https://github.com/kubernetes/org)
-4. 🗣 Commented on [#125183](https://github.com/kubernetes/kubernetes/issues/125183#issuecomment-2136792385) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-5. 🗣 Commented on [#124951](https://github.com/kubernetes/kubernetes/issues/124951#issuecomment-2135817443) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. 🗣 Commented on [#123760](https://github.com/kubernetes/kubernetes/issues/123760#issuecomment-2141804979) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. ❗ Opened issue [#125223](https://github.com/kubernetes/kubernetes/issues/125223) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. 🗣 Commented on [#3413](https://github.com/stacklok/minder/pull/3413#issuecomment-2139054893) in [stacklok/minder](https://github.com/stacklok/minder)
+4. 💪 Opened PR [#4989](https://github.com/kubernetes/org/pull/4989) in [kubernetes/org](https://github.com/kubernetes/org)
+5. 🗣 Commented on [#125183](https://github.com/kubernetes/kubernetes/issues/125183#issuecomment-2136792385) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
