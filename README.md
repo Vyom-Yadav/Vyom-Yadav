@@ -46,7 +46,3 @@ Repeat after me: There is nothing like 'clean' code.
 ### Spotify Playing 🎧
 
 [<img src="https://novatorem-git-master-vyom-yadav.vercel.app/api/spotify" alt="Vyom's Spotify Playing" width="350" />](https://open.spotify.com/user/312oauov5ttlvf6hg6yygyiz3m4m)
-
-### For vibes 🕶️
-
-<img src="https://media1.tenor.com/m/jDLCMJDVK8UAAAAC/nikoomilana-betasquadgifs.gif" alt="niko"> &nbsp; &nbsp;
