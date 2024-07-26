@@ -36,11 +36,11 @@ Repeat after me: There is nothing like 'clean' code.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3630](https://github.com/stacklok/minder/pull/3630#issuecomment-2241251476) in [stacklok/minder](https://github.com/stacklok/minder)
-2. 🗣 Commented on [#126107](https://github.com/kubernetes/kubernetes/pull/126107#issuecomment-2233971540) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. 🗣 Commented on [#5070](https://github.com/kubernetes/org/pull/5070#issuecomment-2233945693) in [kubernetes/org](https://github.com/kubernetes/org)
-4. 💪 Opened PR [#5070](https://github.com/kubernetes/org/pull/5070) in [kubernetes/org](https://github.com/kubernetes/org)
-5. 🗣 Commented on [#124711](https://github.com/kubernetes/kubernetes/pull/124711#issuecomment-2232491310) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. 🗣 Commented on [#126375](https://github.com/kubernetes/kubernetes/issues/126375#issuecomment-2252084897) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. 🗣 Commented on [#126375](https://github.com/kubernetes/kubernetes/issues/126375#issuecomment-2252082822) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. 🗣 Commented on [#3630](https://github.com/stacklok/minder/pull/3630#issuecomment-2241251476) in [stacklok/minder](https://github.com/stacklok/minder)
+4. 🗣 Commented on [#126107](https://github.com/kubernetes/kubernetes/pull/126107#issuecomment-2233971540) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. 🗣 Commented on [#5070](https://github.com/kubernetes/org/pull/5070#issuecomment-2233945693) in [kubernetes/org](https://github.com/kubernetes/org)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
