@@ -36,11 +36,11 @@ Repeat after me: There is nothing like 'clean' code.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126392](https://github.com/kubernetes/kubernetes/issues/126392#issuecomment-2253379750) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-2. 🗣 Commented on [#126375](https://github.com/kubernetes/kubernetes/issues/126375#issuecomment-2252084897) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. 🗣 Commented on [#126375](https://github.com/kubernetes/kubernetes/issues/126375#issuecomment-2252082822) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. 🗣 Commented on [#3630](https://github.com/stacklok/minder/pull/3630#issuecomment-2241251476) in [stacklok/minder](https://github.com/stacklok/minder)
-5. 🗣 Commented on [#126107](https://github.com/kubernetes/kubernetes/pull/126107#issuecomment-2233971540) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. ❗ Opened issue [#126400](https://github.com/kubernetes/kubernetes/issues/126400) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. 🗣 Commented on [#126288](https://github.com/kubernetes/kubernetes/issues/126288#issuecomment-2253460329) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. 🗣 Commented on [#126392](https://github.com/kubernetes/kubernetes/issues/126392#issuecomment-2253454003) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. 🗣 Commented on [#126392](https://github.com/kubernetes/kubernetes/issues/126392#issuecomment-2253379750) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. 🗣 Commented on [#126375](https://github.com/kubernetes/kubernetes/issues/126375#issuecomment-2252084897) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
