@@ -36,11 +36,11 @@ Repeat after me: There is nothing like 'clean' code.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2586](https://github.com/kubernetes/sig-release/issues/2586#issuecomment-2292970079) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-2. 🗣 Commented on [#126616](https://github.com/kubernetes/kubernetes/issues/126616#issuecomment-2284357561) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. 💪 Opened PR [#33239](https://github.com/kubernetes/test-infra/pull/33239) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-4. 🗣 Commented on [#33222](https://github.com/kubernetes/test-infra/pull/33222#issuecomment-2269346022) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-5. 🗣 Commented on [#33222](https://github.com/kubernetes/test-infra/pull/33222#issuecomment-2269343390) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+1. ❗ Opened issue [#507](https://github.com/mrsteele/dotenv-webpack/issues/507) in [mrsteele/dotenv-webpack](https://github.com/mrsteele/dotenv-webpack)
+2. 🗣 Commented on [#2586](https://github.com/kubernetes/sig-release/issues/2586#issuecomment-2292970079) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+3. 🗣 Commented on [#126616](https://github.com/kubernetes/kubernetes/issues/126616#issuecomment-2284357561) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. 💪 Opened PR [#33239](https://github.com/kubernetes/test-infra/pull/33239) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+5. 🗣 Commented on [#33222](https://github.com/kubernetes/test-infra/pull/33222#issuecomment-2269346022) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
