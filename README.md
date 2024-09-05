@@ -36,11 +36,11 @@ Repeat after me: There is nothing like 'clean' code.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2603](https://github.com/kubernetes/sig-release/issues/2603#issuecomment-2307069625) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-2. 🗣 Commented on [#3630](https://github.com/stacklok/minder/pull/3630#issuecomment-2304223647) in [stacklok/minder](https://github.com/stacklok/minder)
-3. ❗ Opened issue [#507](https://github.com/mrsteele/dotenv-webpack/issues/507) in [mrsteele/dotenv-webpack](https://github.com/mrsteele/dotenv-webpack)
-4. 🗣 Commented on [#2586](https://github.com/kubernetes/sig-release/issues/2586#issuecomment-2292970079) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-5. 🗣 Commented on [#126616](https://github.com/kubernetes/kubernetes/issues/126616#issuecomment-2284357561) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. 🗣 Commented on [#2611](https://github.com/kubernetes/sig-release/issues/2611#issuecomment-2330599680) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+2. 🗣 Commented on [#2612](https://github.com/kubernetes/sig-release/issues/2612#issuecomment-2330597168) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+3. ❗ Opened issue [#2612](https://github.com/kubernetes/sig-release/issues/2612) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+4. 🗣 Commented on [#2603](https://github.com/kubernetes/sig-release/issues/2603#issuecomment-2307069625) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+5. 🗣 Commented on [#3630](https://github.com/stacklok/minder/pull/3630#issuecomment-2304223647) in [stacklok/minder](https://github.com/stacklok/minder)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
