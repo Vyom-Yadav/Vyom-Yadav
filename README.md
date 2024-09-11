@@ -36,11 +36,11 @@ Repeat after me: There is nothing like 'clean' code.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2615](https://github.com/kubernetes/sig-release/pull/2615#issuecomment-2336676371) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-2. 🗣 Commented on [#2615](https://github.com/kubernetes/sig-release/pull/2615#issuecomment-2336671888) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-3. 🗣 Commented on [#2615](https://github.com/kubernetes/sig-release/pull/2615#issuecomment-2336671795) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-4. 💪 Opened PR [#2615](https://github.com/kubernetes/sig-release/pull/2615) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-5. 🗣 Commented on [#2611](https://github.com/kubernetes/sig-release/issues/2611#issuecomment-2330599680) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+1. 🗣 Commented on [#127299](https://github.com/kubernetes/kubernetes/issues/127299#issuecomment-2343886792) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. ❗ Opened issue [#127299](https://github.com/kubernetes/kubernetes/issues/127299) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. 🗣 Commented on [#2615](https://github.com/kubernetes/sig-release/pull/2615#issuecomment-2336676371) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+4. 🗣 Commented on [#2615](https://github.com/kubernetes/sig-release/pull/2615#issuecomment-2336671888) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+5. 🗣 Commented on [#2615](https://github.com/kubernetes/sig-release/pull/2615#issuecomment-2336671795) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
