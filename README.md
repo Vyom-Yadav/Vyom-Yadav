@@ -36,11 +36,11 @@ Repeat after me: There is nothing like 'clean' code.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12795](https://github.com/checkstyle/checkstyle/pull/12795#issuecomment-2434686661) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#4701](https://github.com/kubernetes/enhancements/pull/4701#issuecomment-2408588316) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-3. 🗣 Commented on [#2615](https://github.com/kubernetes/sig-release/pull/2615#issuecomment-2396148743) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-4. 🗣 Commented on [#2615](https://github.com/kubernetes/sig-release/pull/2615#issuecomment-2370389037) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-5. 🗣 Commented on [#2632](https://github.com/kubernetes/sig-release/pull/2632#issuecomment-2370380300) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+1. 💪 Opened PR [#4829](https://github.com/mindersec/minder/pull/4829) in [mindersec/minder](https://github.com/mindersec/minder)
+2. 🗣 Commented on [#12795](https://github.com/checkstyle/checkstyle/pull/12795#issuecomment-2434686661) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#4701](https://github.com/kubernetes/enhancements/pull/4701#issuecomment-2408588316) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+4. 🗣 Commented on [#2615](https://github.com/kubernetes/sig-release/pull/2615#issuecomment-2396148743) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+5. 🗣 Commented on [#2615](https://github.com/kubernetes/sig-release/pull/2615#issuecomment-2370389037) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
