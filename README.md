@@ -36,11 +36,11 @@ Repeat after me: There is nothing like 'clean' code.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4784](https://github.com/mindersec/minder/pull/4784#issuecomment-2444689063) in [mindersec/minder](https://github.com/mindersec/minder)
-2. 💪 Opened PR [#4831](https://github.com/mindersec/minder/pull/4831) in [mindersec/minder](https://github.com/mindersec/minder)
-3. 💪 Opened PR [#4829](https://github.com/mindersec/minder/pull/4829) in [mindersec/minder](https://github.com/mindersec/minder)
-4. 🗣 Commented on [#12795](https://github.com/checkstyle/checkstyle/pull/12795#issuecomment-2434686661) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#4701](https://github.com/kubernetes/enhancements/pull/4701#issuecomment-2408588316) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+1. 🗣 Commented on [#125447](https://github.com/kubernetes/kubernetes/issues/125447#issuecomment-2445934207) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. 🗣 Commented on [#128372](https://github.com/kubernetes/kubernetes/pull/128372#issuecomment-2445925129) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. 🗣 Commented on [#128396](https://github.com/kubernetes/kubernetes/pull/128396#issuecomment-2445924202) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. 🗣 Commented on [#128367](https://github.com/kubernetes/kubernetes/pull/128367#issuecomment-2445922067) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. 🗣 Commented on [#128377](https://github.com/kubernetes/kubernetes/pull/128377#issuecomment-2445912436) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
