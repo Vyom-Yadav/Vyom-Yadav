@@ -36,11 +36,11 @@ Repeat after me: There is nothing like 'clean' code.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#691](https://github.com/kubernetes-sigs/release-notes/issues/691#issuecomment-2486897791) in [kubernetes-sigs/release-notes](https://github.com/kubernetes-sigs/release-notes)
-2. 🗣 Commented on [#101](https://github.com/kubernetes-sigs/release-actions/pull/101#issuecomment-2486868151) in [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions)
-3. 🗣 Commented on [#101](https://github.com/kubernetes-sigs/release-actions/pull/101#issuecomment-2486825396) in [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions)
-4. 💪 Opened PR [#101](https://github.com/kubernetes-sigs/release-actions/pull/101) in [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions)
-5. 🗣 Commented on [#125447](https://github.com/kubernetes/kubernetes/issues/125447#issuecomment-2445934207) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. 🗣 Commented on [#101](https://github.com/kubernetes-sigs/release-actions/pull/101#issuecomment-2489309540) in [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions)
+2. 🗣 Commented on [#691](https://github.com/kubernetes-sigs/release-notes/issues/691#issuecomment-2486897791) in [kubernetes-sigs/release-notes](https://github.com/kubernetes-sigs/release-notes)
+3. 🗣 Commented on [#101](https://github.com/kubernetes-sigs/release-actions/pull/101#issuecomment-2486868151) in [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions)
+4. 🗣 Commented on [#101](https://github.com/kubernetes-sigs/release-actions/pull/101#issuecomment-2486825396) in [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions)
+5. 💪 Opened PR [#101](https://github.com/kubernetes-sigs/release-actions/pull/101) in [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
