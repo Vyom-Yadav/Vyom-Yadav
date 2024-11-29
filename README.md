@@ -42,7 +42,3 @@ Repeat after me: There is nothing like 'clean' code.
 4. 🗣 Commented on [#101](https://github.com/kubernetes-sigs/release-actions/pull/101#issuecomment-2486868151) in [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions)
 5. 🗣 Commented on [#101](https://github.com/kubernetes-sigs/release-actions/pull/101#issuecomment-2486825396) in [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions)
 <!--END_SECTION:activity-->
-
-### Spotify Playing 🎧
-
-[<img src="https://novatorem-git-master-vyom-yadav.vercel.app/api/spotify" alt="Vyom's Spotify Playing" width="350" />](https://open.spotify.com/user/312oauov5ttlvf6hg6yygyiz3m4m)
