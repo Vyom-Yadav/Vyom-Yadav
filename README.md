@@ -36,9 +36,9 @@ Repeat after me: There is nothing like 'clean' code.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/kubernetes-sigs/release-actions/pull/101#issuecomment-2494468326) in [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions)
-2. 🗣 Commented on [#101](https://github.com/kubernetes-sigs/release-actions/pull/101#issuecomment-2489309540) in [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions)
-3. 🗣 Commented on [#691](https://github.com/kubernetes-sigs/release-notes/issues/691#issuecomment-2486897791) in [kubernetes-sigs/release-notes](https://github.com/kubernetes-sigs/release-notes)
-4. 🗣 Commented on [#101](https://github.com/kubernetes-sigs/release-actions/pull/101#issuecomment-2486868151) in [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions)
-5. 🗣 Commented on [#101](https://github.com/kubernetes-sigs/release-actions/pull/101#issuecomment-2486825396) in [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions)
+1. 🗣 Commented on [#2660](https://github.com/kubernetes/sig-release/issues/2660#issuecomment-2509768708) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+2. 💪 Opened PR [#33878](https://github.com/kubernetes/test-infra/pull/33878) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+3. 💪 Opened PR [#2670](https://github.com/kubernetes/sig-release/pull/2670) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+4. 💪 Opened PR [#8197](https://github.com/kubernetes/community/pull/8197) in [kubernetes/community](https://github.com/kubernetes/community)
+5. 🗣 Commented on [#101](https://github.com/kubernetes-sigs/release-actions/pull/101#issuecomment-2494468326) in [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions)
 <!--END_SECTION:activity-->
