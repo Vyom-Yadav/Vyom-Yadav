@@ -36,9 +36,9 @@ Repeat after me: There is nothing like 'clean' code.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4831](https://github.com/mindersec/minder/pull/4831#issuecomment-2568790026) in [mindersec/minder](https://github.com/mindersec/minder)
-2. ❌ Reopened PR [#4831](https://github.com/mindersec/minder/pull/4831) in [mindersec/minder](https://github.com/mindersec/minder)
-3. 🗣 Commented on [#2705](https://github.com/kubernetes/sig-release/issues/2705#issuecomment-2566970654) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-4. 🗣 Commented on [#4829](https://github.com/mindersec/minder/pull/4829#issuecomment-2564810216) in [mindersec/minder](https://github.com/mindersec/minder)
-5. 🗣 Commented on [#4829](https://github.com/mindersec/minder/pull/4829#issuecomment-2563903696) in [mindersec/minder](https://github.com/mindersec/minder)
+1. 🗣 Commented on [#101](https://github.com/kubernetes-sigs/release-actions/pull/101#issuecomment-2571371042) in [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions)
+2. 🗣 Commented on [#4831](https://github.com/mindersec/minder/pull/4831#issuecomment-2568790026) in [mindersec/minder](https://github.com/mindersec/minder)
+3. ❌ Reopened PR [#4831](https://github.com/mindersec/minder/pull/4831) in [mindersec/minder](https://github.com/mindersec/minder)
+4. 🗣 Commented on [#2705](https://github.com/kubernetes/sig-release/issues/2705#issuecomment-2566970654) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+5. 🗣 Commented on [#4829](https://github.com/mindersec/minder/pull/4829#issuecomment-2564810216) in [mindersec/minder](https://github.com/mindersec/minder)
 <!--END_SECTION:activity-->
