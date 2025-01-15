@@ -36,9 +36,9 @@ Repeat after me: There is nothing like 'clean' code.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2698](https://github.com/kubernetes/sig-release/pull/2698#issuecomment-2587586564) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-2. 🗣 Commented on [#2698](https://github.com/kubernetes/sig-release/pull/2698#issuecomment-2585201945) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-3. 🗣 Commented on [#2698](https://github.com/kubernetes/sig-release/pull/2698#issuecomment-2585200525) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-4. 🗣 Commented on [#2698](https://github.com/kubernetes/sig-release/pull/2698#issuecomment-2585200332) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-5. 🗣 Commented on [#101](https://github.com/kubernetes-sigs/release-actions/pull/101#issuecomment-2571371042) in [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions)
+1. 🗣 Commented on [#34141](https://github.com/kubernetes/test-infra/pull/34141#issuecomment-2589799354) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+2. 🗣 Commented on [#2698](https://github.com/kubernetes/sig-release/pull/2698#issuecomment-2587586564) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+3. 🗣 Commented on [#2698](https://github.com/kubernetes/sig-release/pull/2698#issuecomment-2585201945) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+4. 🗣 Commented on [#2698](https://github.com/kubernetes/sig-release/pull/2698#issuecomment-2585200525) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+5. 🗣 Commented on [#2698](https://github.com/kubernetes/sig-release/pull/2698#issuecomment-2585200332) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 <!--END_SECTION:activity-->
