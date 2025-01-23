@@ -36,9 +36,9 @@ Repeat after me: There is nothing like 'clean' code.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#303](https://github.com/protobom/protobom/issues/303) in [protobom/protobom](https://github.com/protobom/protobom)
-2. ❗ Opened issue [#302](https://github.com/protobom/protobom/issues/302) in [protobom/protobom](https://github.com/protobom/protobom)
-3. 🗣 Commented on [#2714](https://github.com/kubernetes/sig-release/pull/2714#issuecomment-2606449207) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-4. 🗣 Commented on [#2713](https://github.com/kubernetes/sig-release/pull/2713#issuecomment-2601665812) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-5. 🗣 Commented on [#2706](https://github.com/kubernetes/sig-release/pull/2706#issuecomment-2599154564) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+1. 💪 Opened PR [#306](https://github.com/protobom/protobom/pull/306) in [protobom/protobom](https://github.com/protobom/protobom)
+2. ❗ Opened issue [#305](https://github.com/protobom/protobom/issues/305) in [protobom/protobom](https://github.com/protobom/protobom)
+3. ❗ Opened issue [#304](https://github.com/protobom/protobom/issues/304) in [protobom/protobom](https://github.com/protobom/protobom)
+4. ❗ Opened issue [#303](https://github.com/protobom/protobom/issues/303) in [protobom/protobom](https://github.com/protobom/protobom)
+5. ❗ Opened issue [#302](https://github.com/protobom/protobom/issues/302) in [protobom/protobom](https://github.com/protobom/protobom)
 <!--END_SECTION:activity-->
