@@ -36,9 +36,9 @@ Repeat after me: There is nothing like 'clean' code.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2714](https://github.com/kubernetes/sig-release/pull/2714#issuecomment-2606449207) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-2. 🗣 Commented on [#2713](https://github.com/kubernetes/sig-release/pull/2713#issuecomment-2601665812) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-3. 🗣 Commented on [#2706](https://github.com/kubernetes/sig-release/pull/2706#issuecomment-2599154564) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-4. 🗣 Commented on [#4831](https://github.com/mindersec/minder/pull/4831#issuecomment-2597590496) in [mindersec/minder](https://github.com/mindersec/minder)
-5. 🗣 Commented on [#34141](https://github.com/kubernetes/test-infra/pull/34141#issuecomment-2589799354) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+1. ❗ Opened issue [#303](https://github.com/protobom/protobom/issues/303) in [protobom/protobom](https://github.com/protobom/protobom)
+2. ❗ Opened issue [#302](https://github.com/protobom/protobom/issues/302) in [protobom/protobom](https://github.com/protobom/protobom)
+3. 🗣 Commented on [#2714](https://github.com/kubernetes/sig-release/pull/2714#issuecomment-2606449207) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+4. 🗣 Commented on [#2713](https://github.com/kubernetes/sig-release/pull/2713#issuecomment-2601665812) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+5. 🗣 Commented on [#2706](https://github.com/kubernetes/sig-release/pull/2706#issuecomment-2599154564) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 <!--END_SECTION:activity-->
