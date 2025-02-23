@@ -36,9 +36,9 @@ Repeat after me: There is nothing like 'clean' code.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#294](https://github.com/cncf/communitygroups/issues/294#issuecomment-2642646179) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
-2. 💪 Opened PR [#306](https://github.com/protobom/protobom/pull/306) in [protobom/protobom](https://github.com/protobom/protobom)
-3. ❗ Opened issue [#305](https://github.com/protobom/protobom/issues/305) in [protobom/protobom](https://github.com/protobom/protobom)
+1. 🗣 Commented on [#4831](https://github.com/mindersec/minder/pull/4831#issuecomment-2676691609) in [mindersec/minder](https://github.com/mindersec/minder)
+2. 🗣 Commented on [#4831](https://github.com/mindersec/minder/pull/4831#issuecomment-2676691380) in [mindersec/minder](https://github.com/mindersec/minder)
+3. 🗣 Commented on [#294](https://github.com/cncf/communitygroups/issues/294#issuecomment-2642646179) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
 4. ❗ Opened issue [#304](https://github.com/protobom/protobom/issues/304) in [protobom/protobom](https://github.com/protobom/protobom)
 5. ❗ Opened issue [#303](https://github.com/protobom/protobom/issues/303) in [protobom/protobom](https://github.com/protobom/protobom)
 <!--END_SECTION:activity-->
