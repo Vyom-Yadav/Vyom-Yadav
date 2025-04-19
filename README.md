@@ -14,9 +14,9 @@ Quite open to work on any interesting and industry relevant problem.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1982](https://github.com/google/go-containerregistry/issues/1982#issuecomment-2747380148) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-2. 🗣 Commented on [#34548](https://github.com/kubernetes/test-infra/pull/34548#issuecomment-2746230307) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-3. 🗣 Commented on [#980](https://github.com/libexpat/libexpat/issues/980#issuecomment-2740364171) in [libexpat/libexpat](https://github.com/libexpat/libexpat)
-4. 🗣 Commented on [#303](https://github.com/protobom/protobom/issues/303#issuecomment-2720571766) in [protobom/protobom](https://github.com/protobom/protobom)
-5. 🗣 Commented on [#305](https://github.com/protobom/protobom/issues/305#issuecomment-2720508753) in [protobom/protobom](https://github.com/protobom/protobom)
+1. 🗣 Commented on [#8411](https://github.com/kubernetes/community/pull/8411#issuecomment-2816596971) in [kubernetes/community](https://github.com/kubernetes/community)
+2. 🗣 Commented on [#8411](https://github.com/kubernetes/community/pull/8411#issuecomment-2816593140) in [kubernetes/community](https://github.com/kubernetes/community)
+3. 🗣 Commented on [#1982](https://github.com/google/go-containerregistry/issues/1982#issuecomment-2747380148) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+4. 🗣 Commented on [#34548](https://github.com/kubernetes/test-infra/pull/34548#issuecomment-2746230307) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+5. 🗣 Commented on [#980](https://github.com/libexpat/libexpat/issues/980#issuecomment-2740364171) in [libexpat/libexpat](https://github.com/libexpat/libexpat)
 <!--END_SECTION:activity-->
