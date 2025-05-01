@@ -14,9 +14,9 @@ Quite open to work on any interesting and industry relevant problem.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8411](https://github.com/kubernetes/community/pull/8411#issuecomment-2816596971) in [kubernetes/community](https://github.com/kubernetes/community)
-2. 🗣 Commented on [#8411](https://github.com/kubernetes/community/pull/8411#issuecomment-2816593140) in [kubernetes/community](https://github.com/kubernetes/community)
-3. 🗣 Commented on [#1982](https://github.com/google/go-containerregistry/issues/1982#issuecomment-2747380148) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+1. 🗣 Commented on [#2777](https://github.com/kubernetes/sig-release/issues/2777#issuecomment-2844803035) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+2. 🗣 Commented on [#8411](https://github.com/kubernetes/community/pull/8411#issuecomment-2816596971) in [kubernetes/community](https://github.com/kubernetes/community)
+3. 🗣 Commented on [#8411](https://github.com/kubernetes/community/pull/8411#issuecomment-2816593140) in [kubernetes/community](https://github.com/kubernetes/community)
 4. 🗣 Commented on [#34548](https://github.com/kubernetes/test-infra/pull/34548#issuecomment-2746230307) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
 5. 🗣 Commented on [#980](https://github.com/libexpat/libexpat/issues/980#issuecomment-2740364171) in [libexpat/libexpat](https://github.com/libexpat/libexpat)
 <!--END_SECTION:activity-->
