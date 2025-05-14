@@ -14,9 +14,9 @@ Quite open to work on any interesting and industry relevant problem.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8411](https://github.com/kubernetes/community/pull/8411#issuecomment-2863324000) in [kubernetes/community](https://github.com/kubernetes/community)
-2. 💪 Opened PR [#5584](https://github.com/kubernetes/org/pull/5584) in [kubernetes/org](https://github.com/kubernetes/org)
-3. 💪 Opened PR [#2780](https://github.com/kubernetes/sig-release/pull/2780) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-4. 🗣 Commented on [#2779](https://github.com/kubernetes/sig-release/issues/2779#issuecomment-2862128131) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-5. ❗ Opened issue [#2779](https://github.com/kubernetes/sig-release/issues/2779) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+1. 💪 Opened PR [#8100](https://github.com/kubernetes/k8s.io/pull/8100) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+2. 🗣 Commented on [#8411](https://github.com/kubernetes/community/pull/8411#issuecomment-2863324000) in [kubernetes/community](https://github.com/kubernetes/community)
+3. 💪 Opened PR [#5584](https://github.com/kubernetes/org/pull/5584) in [kubernetes/org](https://github.com/kubernetes/org)
+4. 💪 Opened PR [#2780](https://github.com/kubernetes/sig-release/pull/2780) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+5. 🗣 Commented on [#2779](https://github.com/kubernetes/sig-release/issues/2779#issuecomment-2862128131) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 <!--END_SECTION:activity-->
