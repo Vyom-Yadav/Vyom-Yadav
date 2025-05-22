@@ -14,9 +14,9 @@ Quite open to work on any interesting and industry relevant problem.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8460](https://github.com/kubernetes/community/pull/8460#issuecomment-2890348929) in [kubernetes/community](https://github.com/kubernetes/community)
-2. 🗣 Commented on [#8100](https://github.com/kubernetes/k8s.io/pull/8100#issuecomment-2890344970) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-3. 💪 Opened PR [#8109](https://github.com/kubernetes/k8s.io/pull/8109) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-4. 🗣 Commented on [#8109](https://github.com/kubernetes/k8s.io/pull/8109#issuecomment-2883739712) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-5. 🗣 Commented on [#8460](https://github.com/kubernetes/community/pull/8460#issuecomment-2883077022) in [kubernetes/community](https://github.com/kubernetes/community)
+1. 🗣 Commented on [#2788](https://github.com/kubernetes/sig-release/pull/2788#issuecomment-2902054949) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+2. 🗣 Commented on [#8460](https://github.com/kubernetes/community/pull/8460#issuecomment-2890348929) in [kubernetes/community](https://github.com/kubernetes/community)
+3. 🗣 Commented on [#8100](https://github.com/kubernetes/k8s.io/pull/8100#issuecomment-2890344970) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+4. 💪 Opened PR [#8109](https://github.com/kubernetes/k8s.io/pull/8109) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+5. 🗣 Commented on [#8109](https://github.com/kubernetes/k8s.io/pull/8109#issuecomment-2883739712) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
 <!--END_SECTION:activity-->
