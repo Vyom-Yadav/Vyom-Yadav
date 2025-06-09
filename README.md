@@ -14,9 +14,9 @@ Quite open to work on any interesting and industry relevant problem.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Vyom-Yadav/test-repo/pull/1) in [Vyom-Yadav/test-repo](https://github.com/Vyom-Yadav/test-repo)
-2. 🗣 Commented on [#5636](https://github.com/kubernetes/org/pull/5636#issuecomment-2948381045) in [kubernetes/org](https://github.com/kubernetes/org)
-3. 🗣 Commented on [#5623](https://github.com/kubernetes/org/pull/5623#issuecomment-2938737775) in [kubernetes/org](https://github.com/kubernetes/org)
-4. 🗣 Commented on [#5622](https://github.com/kubernetes/org/pull/5622#issuecomment-2938730079) in [kubernetes/org](https://github.com/kubernetes/org)
-5. 🗣 Commented on [#5628](https://github.com/kubernetes/org/pull/5628#issuecomment-2938729087) in [kubernetes/org](https://github.com/kubernetes/org)
+1. ❌ Closed PR [#1](https://github.com/Vyom-Yadav/test-repo/pull/1) in [Vyom-Yadav/test-repo](https://github.com/Vyom-Yadav/test-repo)
+2. 💪 Opened PR [#1](https://github.com/Vyom-Yadav/test-repo/pull/1) in [Vyom-Yadav/test-repo](https://github.com/Vyom-Yadav/test-repo)
+3. 🗣 Commented on [#5636](https://github.com/kubernetes/org/pull/5636#issuecomment-2948381045) in [kubernetes/org](https://github.com/kubernetes/org)
+4. 🗣 Commented on [#5623](https://github.com/kubernetes/org/pull/5623#issuecomment-2938737775) in [kubernetes/org](https://github.com/kubernetes/org)
+5. 🗣 Commented on [#5622](https://github.com/kubernetes/org/pull/5622#issuecomment-2938730079) in [kubernetes/org](https://github.com/kubernetes/org)
 <!--END_SECTION:activity-->
