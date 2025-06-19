@@ -14,9 +14,9 @@ Quite open to work on any interesting and industry relevant problem.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5660](https://github.com/kubernetes/org/pull/5660#issuecomment-2979353308) in [kubernetes/org](https://github.com/kubernetes/org)
-2. 🗣 Commented on [#5660](https://github.com/kubernetes/org/pull/5660#issuecomment-2979348725) in [kubernetes/org](https://github.com/kubernetes/org)
-3. 💪 Opened PR [#5660](https://github.com/kubernetes/org/pull/5660) in [kubernetes/org](https://github.com/kubernetes/org)
-4. 🗣 Commented on [#5654](https://github.com/kubernetes/org/pull/5654#issuecomment-2976737542) in [kubernetes/org](https://github.com/kubernetes/org)
-5. 🗣 Commented on [#5631](https://github.com/kubernetes/org/issues/5631#issuecomment-2963071852) in [kubernetes/org](https://github.com/kubernetes/org)
+1. 🗣 Commented on [#35003](https://github.com/kubernetes/test-infra/pull/35003#issuecomment-2986803496) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+2. 🗣 Commented on [#5660](https://github.com/kubernetes/org/pull/5660#issuecomment-2979353308) in [kubernetes/org](https://github.com/kubernetes/org)
+3. 🗣 Commented on [#5660](https://github.com/kubernetes/org/pull/5660#issuecomment-2979348725) in [kubernetes/org](https://github.com/kubernetes/org)
+4. 💪 Opened PR [#5660](https://github.com/kubernetes/org/pull/5660) in [kubernetes/org](https://github.com/kubernetes/org)
+5. 🗣 Commented on [#5654](https://github.com/kubernetes/org/pull/5654#issuecomment-2976737542) in [kubernetes/org](https://github.com/kubernetes/org)
 <!--END_SECTION:activity-->
