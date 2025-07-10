@@ -14,9 +14,9 @@ Quite open to work on any interesting and industry relevant problem.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4742](https://github.com/kubernetes/enhancements/issues/4742#issuecomment-3031050929) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-2. 🗣 Commented on [#4742](https://github.com/kubernetes/enhancements/issues/4742#issuecomment-3020116627) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-3. 🗣 Commented on [#4742](https://github.com/kubernetes/enhancements/issues/4742#issuecomment-3020098840) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-4. 💪 Opened PR [#10](https://github.com/canonical/ubuntu-package-buildinfo/pull/10) in [canonical/ubuntu-package-buildinfo](https://github.com/canonical/ubuntu-package-buildinfo)
-5. 🗣 Commented on [#51113](https://github.com/kubernetes/website/issues/51113#issuecomment-2997066915) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#2808](https://github.com/kubernetes/sig-release/pull/2808#issuecomment-3053544741) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+2. 🗣 Commented on [#4742](https://github.com/kubernetes/enhancements/issues/4742#issuecomment-3031050929) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+3. 🗣 Commented on [#4742](https://github.com/kubernetes/enhancements/issues/4742#issuecomment-3020116627) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+4. 🗣 Commented on [#4742](https://github.com/kubernetes/enhancements/issues/4742#issuecomment-3020098840) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+5. 💪 Opened PR [#10](https://github.com/canonical/ubuntu-package-buildinfo/pull/10) in [canonical/ubuntu-package-buildinfo](https://github.com/canonical/ubuntu-package-buildinfo)
 <!--END_SECTION:activity-->
