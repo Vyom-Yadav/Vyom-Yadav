@@ -14,9 +14,9 @@ Quite open to work on any interesting and industry relevant problem.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133523](https://github.com/kubernetes/kubernetes/pull/133523#issuecomment-3195544942) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-2. 🗣 Commented on [#133570](https://github.com/kubernetes/kubernetes/pull/133570#issuecomment-3193365366) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. 🗣 Commented on [#357](https://github.com/protobom/protobom/pull/357#issuecomment-3191261036) in [protobom/protobom](https://github.com/protobom/protobom)
-4. 💪 Opened PR [#2830](https://github.com/kubernetes/sig-release/pull/2830) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-5. 🗣 Commented on [#133321](https://github.com/kubernetes/kubernetes/pull/133321#issuecomment-3171883149) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. 🗣 Commented on [#133429](https://github.com/kubernetes/kubernetes/issues/133429#issuecomment-3197666294) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. 🗣 Commented on [#133587](https://github.com/kubernetes/kubernetes/pull/133587#issuecomment-3197643352) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. 🗣 Commented on [#2835](https://github.com/kubernetes/sig-release/pull/2835#issuecomment-3197630576) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+4. 🗣 Commented on [#133523](https://github.com/kubernetes/kubernetes/pull/133523#issuecomment-3195544942) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. 🗣 Commented on [#133570](https://github.com/kubernetes/kubernetes/pull/133570#issuecomment-3193365366) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
