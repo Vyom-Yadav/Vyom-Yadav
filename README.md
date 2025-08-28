@@ -14,9 +14,9 @@ Quite open to work on any interesting and industry relevant problem.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35366](https://github.com/kubernetes/test-infra/pull/35366#issuecomment-3229375497) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-2. 🗣 Commented on [#52045](https://github.com/kubernetes/website/pull/52045#issuecomment-3229331260) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 💪 Opened PR [#2847](https://github.com/kubernetes/sig-release/pull/2847) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-4. 🗣 Commented on [#2845](https://github.com/kubernetes/sig-release/pull/2845#issuecomment-3229180829) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-5. 🗣 Commented on [#52044](https://github.com/kubernetes/website/pull/52044#issuecomment-3228357871) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 💪 Opened PR [#2848](https://github.com/kubernetes/sig-release/pull/2848) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+2. 🗣 Commented on [#35366](https://github.com/kubernetes/test-infra/pull/35366#issuecomment-3229375497) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+3. 🗣 Commented on [#52045](https://github.com/kubernetes/website/pull/52045#issuecomment-3229331260) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 💪 Opened PR [#2847](https://github.com/kubernetes/sig-release/pull/2847) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+5. 🗣 Commented on [#2845](https://github.com/kubernetes/sig-release/pull/2845#issuecomment-3229180829) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 <!--END_SECTION:activity-->
