@@ -14,9 +14,9 @@ Quite open to work on any interesting and industry relevant problem.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8584](https://github.com/kubernetes/community/issues/8584#issuecomment-3264699778) in [kubernetes/community](https://github.com/kubernetes/community)
-2. 🗣 Commented on [#8576](https://github.com/kubernetes/community/issues/8576#issuecomment-3264698249) in [kubernetes/community](https://github.com/kubernetes/community)
-3. 🗣 Commented on [#8580](https://github.com/kubernetes/community/issues/8580#issuecomment-3264696403) in [kubernetes/community](https://github.com/kubernetes/community)
-4. 🗣 Commented on [#2849](https://github.com/kubernetes/sig-release/issues/2849#issuecomment-3245617665) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-5. 🗣 Commented on [#52047](https://github.com/kubernetes/website/pull/52047#issuecomment-3233830561) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#8574](https://github.com/kubernetes/community/issues/8574#issuecomment-3271353535) in [kubernetes/community](https://github.com/kubernetes/community)
+2. 🗣 Commented on [#8583](https://github.com/kubernetes/community/issues/8583#issuecomment-3271352611) in [kubernetes/community](https://github.com/kubernetes/community)
+3. 🗣 Commented on [#8593](https://github.com/kubernetes/community/issues/8593#issuecomment-3271351921) in [kubernetes/community](https://github.com/kubernetes/community)
+4. 🗣 Commented on [#8584](https://github.com/kubernetes/community/issues/8584#issuecomment-3264699778) in [kubernetes/community](https://github.com/kubernetes/community)
+5. 🗣 Commented on [#8576](https://github.com/kubernetes/community/issues/8576#issuecomment-3264698249) in [kubernetes/community](https://github.com/kubernetes/community)
 <!--END_SECTION:activity-->
