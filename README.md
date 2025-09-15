@@ -14,9 +14,9 @@ Quite open to work on any interesting and industry relevant problem.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2841](https://github.com/kubernetes/sig-release/pull/2841#issuecomment-3289431666) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-2. 🗣 Commented on [#8574](https://github.com/kubernetes/community/issues/8574#issuecomment-3271353535) in [kubernetes/community](https://github.com/kubernetes/community)
-3. 🗣 Commented on [#8583](https://github.com/kubernetes/community/issues/8583#issuecomment-3271352611) in [kubernetes/community](https://github.com/kubernetes/community)
-4. 🗣 Commented on [#8593](https://github.com/kubernetes/community/issues/8593#issuecomment-3271351921) in [kubernetes/community](https://github.com/kubernetes/community)
-5. 🗣 Commented on [#8584](https://github.com/kubernetes/community/issues/8584#issuecomment-3264699778) in [kubernetes/community](https://github.com/kubernetes/community)
+1. 🗣 Commented on [#4122](https://github.com/kubernetes/release/issues/4122#issuecomment-3289531716) in [kubernetes/release](https://github.com/kubernetes/release)
+2. ❗ Opened issue [#4122](https://github.com/kubernetes/release/issues/4122) in [kubernetes/release](https://github.com/kubernetes/release)
+3. 🗣 Commented on [#4121](https://github.com/kubernetes/release/issues/4121#issuecomment-3289525964) in [kubernetes/release](https://github.com/kubernetes/release)
+4. ❗ Opened issue [#4121](https://github.com/kubernetes/release/issues/4121) in [kubernetes/release](https://github.com/kubernetes/release)
+5. 🗣 Commented on [#2866](https://github.com/kubernetes/sig-release/pull/2866#issuecomment-3289499700) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 <!--END_SECTION:activity-->
