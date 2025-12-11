@@ -14,7 +14,7 @@ Quite open to work on any interesting and industry relevant problem.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/in-toto/witness/issues/36#issuecomment-3406323439) in [in-toto/witness](https://github.com/in-toto/witness)
+1. 🗣 Commented on [#2866](https://github.com/kubernetes/sig-release/pull/2866#issuecomment-3642662062) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 2. 🗣 Commented on [#36](https://github.com/in-toto/witness/issues/36#issuecomment-3372795122) in [in-toto/witness](https://github.com/in-toto/witness)
 3. 🗣 Commented on [#36](https://github.com/in-toto/witness/issues/36#issuecomment-3358914482) in [in-toto/witness](https://github.com/in-toto/witness)
 4. 🗣 Commented on [#36](https://github.com/in-toto/witness/issues/36#issuecomment-3358890946) in [in-toto/witness](https://github.com/in-toto/witness)
