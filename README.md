@@ -14,9 +14,9 @@ Quite open to work on any interesting and industry relevant problem.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#700](https://github.com/in-toto/witness/issues/700#issuecomment-3665007218) in [in-toto/witness](https://github.com/in-toto/witness)
-2. 🗣 Commented on [#700](https://github.com/in-toto/witness/issues/700#issuecomment-3660540882) in [in-toto/witness](https://github.com/in-toto/witness)
-3.  Labeled issue [#700](https://github.com/in-toto/witness/issues/700) in [in-toto/witness](https://github.com/in-toto/witness)
-4. ❗ Opened issue [#700](https://github.com/in-toto/witness/issues/700) in [in-toto/witness](https://github.com/in-toto/witness)
-5. 💪 Opened PR [#1219](undefined) in [cncf/foundation](https://github.com/cncf/foundation)
+1. ❌ Merged PR [#1219](undefined) in [cncf/foundation](https://github.com/cncf/foundation)
+2. 🗣 Commented on [#700](https://github.com/in-toto/witness/issues/700#issuecomment-3665007218) in [in-toto/witness](https://github.com/in-toto/witness)
+3. 🗣 Commented on [#700](https://github.com/in-toto/witness/issues/700#issuecomment-3660540882) in [in-toto/witness](https://github.com/in-toto/witness)
+4.  Labeled issue [#700](https://github.com/in-toto/witness/issues/700) in [in-toto/witness](https://github.com/in-toto/witness)
+5. ❗ Opened issue [#700](https://github.com/in-toto/witness/issues/700) in [in-toto/witness](https://github.com/in-toto/witness)
 <!--END_SECTION:activity-->
