@@ -14,9 +14,9 @@ Quite open to work on any interesting and industry relevant problem.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#628](https://github.com/in-toto/go-witness/pull/628#issuecomment-3694579686) in [in-toto/go-witness](https://github.com/in-toto/go-witness)
-2. 💪 Opened PR [#628](undefined) in [in-toto/go-witness](https://github.com/in-toto/go-witness)
-3. 🗣 Commented on [#627](https://github.com/in-toto/go-witness/pull/627#issuecomment-3691079109) in [in-toto/go-witness](https://github.com/in-toto/go-witness)
-4. 💪 Opened PR [#627](undefined) in [in-toto/go-witness](https://github.com/in-toto/go-witness)
-5. 🗣 Commented on [#2779](https://github.com/kubernetes/sig-release/issues/2779#issuecomment-3678675357) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+1. 🗣 Commented on [#629](https://github.com/in-toto/go-witness/pull/629#issuecomment-3694741748) in [in-toto/go-witness](https://github.com/in-toto/go-witness)
+2. 💪 Opened PR [#629](undefined) in [in-toto/go-witness](https://github.com/in-toto/go-witness)
+3. 🗣 Commented on [#628](https://github.com/in-toto/go-witness/pull/628#issuecomment-3694579686) in [in-toto/go-witness](https://github.com/in-toto/go-witness)
+4. 💪 Opened PR [#628](undefined) in [in-toto/go-witness](https://github.com/in-toto/go-witness)
+5. 🗣 Commented on [#627](https://github.com/in-toto/go-witness/pull/627#issuecomment-3691079109) in [in-toto/go-witness](https://github.com/in-toto/go-witness)
 <!--END_SECTION:activity-->
