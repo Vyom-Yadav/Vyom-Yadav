@@ -14,9 +14,9 @@ Quite open to work on any interesting and industry relevant problem.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unassigned issue [#2261](https://github.com/mindersec/minder/issues/2261) in [mindersec/minder](https://github.com/mindersec/minder)
-2. ℹ️ Unassigned issue [#4542](https://github.com/mindersec/minder/issues/4542) in [mindersec/minder](https://github.com/mindersec/minder)
-3. 🗣 Commented on [#629](https://github.com/in-toto/go-witness/pull/629#issuecomment-3703665451) in [in-toto/go-witness](https://github.com/in-toto/go-witness)
-4. 🗣 Commented on [#2866](https://github.com/kubernetes/sig-release/pull/2866#issuecomment-3699132010) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-5. 🗣 Commented on [#629](https://github.com/in-toto/go-witness/pull/629#issuecomment-3694741748) in [in-toto/go-witness](https://github.com/in-toto/go-witness)
+1. 🗣 Commented on [#7588](https://github.com/kubernetes/k8s.io/issues/7588#issuecomment-3768171193) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+2. ℹ️ Unassigned issue [#2261](https://github.com/mindersec/minder/issues/2261) in [mindersec/minder](https://github.com/mindersec/minder)
+3. ℹ️ Unassigned issue [#4542](https://github.com/mindersec/minder/issues/4542) in [mindersec/minder](https://github.com/mindersec/minder)
+4. 🗣 Commented on [#629](https://github.com/in-toto/go-witness/pull/629#issuecomment-3703665451) in [in-toto/go-witness](https://github.com/in-toto/go-witness)
+5. 🗣 Commented on [#2866](https://github.com/kubernetes/sig-release/pull/2866#issuecomment-3699132010) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 <!--END_SECTION:activity-->
